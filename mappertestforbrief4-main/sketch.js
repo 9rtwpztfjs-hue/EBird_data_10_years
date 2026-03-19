@@ -21,17 +21,17 @@ const options = {
 
 async function setup(){
 
-  birdData["2014"] = await loadTable('/assets/robin_2014.csv', ',', 'header');
-  birdData["2015"] = await loadTable('/assets/robin_2015.csv', ',', 'header');
-  birdData["2016"] = await loadTable('/assets/robin_2016.csv', ',', 'header');
-  birdData["2017"] = await loadTable('/assets/robin_2017.csv', ',', 'header');
-  birdData["2018"] = await loadTable('/assets/robin_2018.csv', ',', 'header');
-  birdData["2019"] = await loadTable('/assets/robin_2019.csv', ',', 'header');
-  birdData["2020"] = await loadTable('/assets/robin_2020.csv', ',', 'header');
-  birdData["2021"] = await loadTable('/assets/robin_2021.csv', ',', 'header');
-  birdData["2022"] = await loadTable('/assets/robin_2022.csv', ',', 'header');
-  birdData["2023"] = await loadTable('/assets/robin_2023.csv', ',', 'header');
-  birdData["2024"] = await loadTable('/assets/robin_2024.csv', ',', 'header');
+  birdData["2014"] = await loadTable('assets/robin_2014.csv', ',', 'header');
+  birdData["2015"] = await loadTable('assets/robin_2015.csv', ',', 'header');
+  birdData["2016"] = await loadTable('assets/robin_2016.csv', ',', 'header');
+  birdData["2017"] = await loadTable('assets/robin_2017.csv', ',', 'header');
+  birdData["2018"] = await loadTable('assets/robin_2018.csv', ',', 'header');
+  birdData["2019"] = await loadTable('assets/robin_2019.csv', ',', 'header');
+  birdData["2020"] = await loadTable('assets/robin_2020.csv', ',', 'header');
+  birdData["2021"] = await loadTable('assets/robin_2021.csv', ',', 'header');
+  birdData["2022"] = await loadTable('assets/robin_2022.csv', ',', 'header');
+  birdData["2023"] = await loadTable('assets/robin_2023.csv', ',', 'header');
+  birdData["2024"] = await loadTable('assets/robin_2024.csv', ',', 'header');
   
   canvas = createCanvas(windowWidth, windowHeight);
 
