@@ -1,0 +1,356 @@
+speciesCode,comName,sciName,locId,locName,obsDt,lat,lng,obsValid,obsReviewed,locationPrivate,subId,exoticCategory,howMany,date_requested
+eurrob1,European Robin,Erithacus rubecula,L8069121,"The Serpentine, London GB-England (51.5092,-0.1758)",2017-01-01 22:25,51.509165,-0.175835,TRUE,FALSE,TRUE,S49425705,NA,NA,2017-01-01
+eurrob1,European Robin,Erithacus rubecula,L939896,WWT London Wetland Centre (from 2000),2017-01-02 11:48,51.4774486,-0.235101,TRUE,FALSE,FALSE,S33426390,NA,2,2017-01-02
+eurrob1,European Robin,Erithacus rubecula,L3331169,East India Dock Basin,2017-01-03 13:50,51.5091965,0.0030899,TRUE,FALSE,FALSE,S33420053,NA,1,2017-01-03
+eurrob1,European Robin,Erithacus rubecula,L2083779,Walthamstow Wetlands,2017-01-04 12:25,51.5856349,-0.0539798,TRUE,FALSE,FALSE,S33430873,NA,NA,2017-01-04
+eurrob1,European Robin,Erithacus rubecula,L5292216,GB-England-Carshalton-The Grove - 51.3662x-0.1636,2017-01-05 14:01,51.366211,-0.163637,TRUE,FALSE,TRUE,S33881951,NA,2,2017-01-05
+eurrob1,European Robin,Erithacus rubecula,L5227298,Ruislip Lido,2017-01-06 11:15,51.5906053,-0.4302478,TRUE,FALSE,FALSE,S33478966,NA,11,2017-01-06
+eurrob1,European Robin,Erithacus rubecula,L5245836,Crystal Palace,2017-01-07 11:22,51.4132066,-0.0781488,TRUE,FALSE,TRUE,S33595479,NA,NA,2017-01-07
+eurrob1,European Robin,Erithacus rubecula,L5037475,103 Pembury Avenue,2017-01-08 14:55,51.3844773,-0.2430511,TRUE,FALSE,TRUE,S33531563,NA,2,2017-01-08
+eurrob1,European Robin,Erithacus rubecula,L5227298,Ruislip Lido,2017-01-09 13:50,51.5906053,-0.4302478,TRUE,FALSE,FALSE,S33561283,NA,6,2017-01-09
+eurrob1,European Robin,Erithacus rubecula,L956644,Kew Royal Botanic Gardens,2017-01-10 15:00,51.4787636,-0.2956009,TRUE,FALSE,FALSE,S33588353,NA,2,2017-01-10
+eurrob1,European Robin,Erithacus rubecula,L3797797,Greenwich Peninsula,2017-01-11 11:15,51.4979956,0.0055361,TRUE,FALSE,FALSE,S33596973,NA,NA,2017-01-11
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2017-01-12 06:41,51.595709,-0.1394567,TRUE,FALSE,TRUE,S33613922,NA,1,2017-01-12
+eurrob1,European Robin,Erithacus rubecula,L10923860,Rainham Marshes,2017-01-13 14:00,51.4936103,0.2097663,TRUE,FALSE,TRUE,S65573146,NA,NA,2017-01-13
+eurrob1,European Robin,Erithacus rubecula,L5260310,"The Rookery, Streatham",2017-01-14 15:15,51.4212893,-0.1179743,TRUE,FALSE,TRUE,S33681111,NA,3,2017-01-14
+eurrob1,European Robin,Erithacus rubecula,L939896,WWT London Wetland Centre (from 2000),2017-01-15 13:42,51.4774486,-0.235101,TRUE,FALSE,FALSE,S33687024,NA,2,2017-01-15
+eurrob1,European Robin,Erithacus rubecula,L5266959,Chiswick House and Gardens,2017-01-16 15:30,51.4837882,-0.2586079,TRUE,FALSE,FALSE,S33719810,NA,5,2017-01-16
+eurrob1,European Robin,Erithacus rubecula,L945563,"St James's Park (do not list Barnacle Goose, Shelduck and other captive birds)",2017-01-17 15:15,51.5031329,-0.1338959,TRUE,FALSE,FALSE,S33868358,NA,1,2017-01-17
+eurrob1,European Robin,Erithacus rubecula,L939896,WWT London Wetland Centre (from 2000),2017-01-18 11:00,51.4774486,-0.235101,TRUE,FALSE,FALSE,S33765045,NA,10,2017-01-18
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-01-19 11:54,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S34104012,NA,1,2017-01-19
+eurrob1,European Robin,Erithacus rubecula,L4597015,Kensal Green Cemetery,2017-01-20 13:30,51.5283903,-0.2204239,TRUE,FALSE,FALSE,S33812609,NA,5,2017-01-20
+eurrob1,European Robin,Erithacus rubecula,L10164693,St Pancras Way,2017-01-21 15:00,51.5355588,-0.1342688,TRUE,FALSE,TRUE,S61518445,NA,1,2017-01-21
+eurrob1,European Robin,Erithacus rubecula,L939896,WWT London Wetland Centre (from 2000),2017-01-22 14:30,51.4774486,-0.235101,TRUE,FALSE,FALSE,S66583827,NA,1,2017-01-22
+eurrob1,European Robin,Erithacus rubecula,L5292947,GB-England-Wallington-Wilderness Island - 51.3734x-0.1579,2017-01-23 15:45,51.373354,-0.157863,TRUE,FALSE,TRUE,S33887502,NA,7,2017-01-23
+eurrob1,European Robin,Erithacus rubecula,L5295836,Harvington Recreation Ground,2017-01-24 13:30,51.3946805,-0.0254917,TRUE,FALSE,TRUE,S33905811,NA,NA,2017-01-24
+eurrob1,European Robin,Erithacus rubecula,L4026088,Crystal Palace Park,2017-01-25 14:00,51.4216077,-0.0699413,TRUE,FALSE,FALSE,S33947506,NA,NA,2017-01-25
+eurrob1,European Robin,Erithacus rubecula,L4148152,South Norwood Country Park and LNR,2017-01-26 14:00,51.3980845,-0.0552666,TRUE,FALSE,FALSE,S33947591,NA,NA,2017-01-26
+eurrob1,European Robin,Erithacus rubecula,L5373198,Bethlem Royal Hospital Grounds,2017-01-27 16:00,51.3843434,-0.0338602,TRUE,FALSE,FALSE,S33965721,NA,NA,2017-01-27
+eurrob1,European Robin,Erithacus rubecula,L5376429,GB-England-London-Tavistock Square - 51.5251x-0.1290,2017-01-28 16:30,51.525139,-0.128964,TRUE,FALSE,TRUE,S33985523,NA,1,2017-01-28
+eurrob1,European Robin,Erithacus rubecula,L5386202,River Lee at Millfields Park,2017-01-29 12:30,51.5625046,-0.047278,TRUE,FALSE,TRUE,S34047891,NA,2,2017-01-29
+eurrob1,European Robin,Erithacus rubecula,L5292947,GB-England-Wallington-Wilderness Island - 51.3734x-0.1579,2017-01-30 12:05,51.373354,-0.157863,TRUE,FALSE,TRUE,S34051446,NA,10,2017-01-30
+eurrob1,European Robin,Erithacus rubecula,L1000253,"Rainham Marshes RSPB Reserve, SSSI and LNR (includes Stone Barges and riverside walk)",2017-01-31,51.4966805,0.2115243,TRUE,FALSE,FALSE,S80348047,NA,NA,2017-01-31
+eurrob1,European Robin,Erithacus rubecula,L5391590,GB-London-9A The Path - 51.412x-0.196 - 1 Feb 2017 08:25,2017-02-01 08:10,51.4121869,-0.1963434,TRUE,FALSE,TRUE,S34085214,NA,2,2017-02-01
+eurrob1,European Robin,Erithacus rubecula,L1765241,Kelsey Park,2017-02-02 13:30,51.4019366,-0.0218746,TRUE,FALSE,FALSE,S34106138,NA,NA,2017-02-02
+eurrob1,European Robin,Erithacus rubecula,L5397973,GB-London-16 Watery Lane - 51.409x-0.207 - 3 Feb 2017 15:39,2017-02-03 15:30,51.4091944,-0.2070504,TRUE,FALSE,TRUE,S34128020,NA,1,2017-02-03
+eurrob1,European Robin,Erithacus rubecula,L4412629,Dollis Valley Greenwalk,2017-02-04 14:30,51.5921494,-0.2113447,TRUE,FALSE,TRUE,S34146516,NA,6,2017-02-04
+eurrob1,European Robin,Erithacus rubecula,L3578101,Beckton Creekside and Sewage Works,2017-02-05 15:00,51.5171472,0.0942367,TRUE,FALSE,FALSE,S34177676,NA,4,2017-02-05
+eurrob1,European Robin,Erithacus rubecula,L5410291,GB-London-9A The Path - 51.412x-0.196 - 6 Feb 2017 08:38,2017-02-06 08:30,51.4120753,-0.1962378,TRUE,FALSE,TRUE,S34195628,NA,1,2017-02-06
+eurrob1,European Robin,Erithacus rubecula,L5410291,GB-London-9A The Path - 51.412x-0.196 - 6 Feb 2017 08:38,2017-02-07 08:24,51.4120753,-0.1962378,TRUE,FALSE,TRUE,S34218099,NA,4,2017-02-07
+eurrob1,European Robin,Erithacus rubecula,L4148152,South Norwood Country Park and LNR,2017-02-08 15:00,51.3980845,-0.0552666,TRUE,FALSE,FALSE,S34243594,NA,NA,2017-02-08
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2017-02-09,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S98391914,NA,12,2017-02-09
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2017-02-10 08:49,51.595709,-0.1394567,TRUE,FALSE,TRUE,S34278008,NA,1,2017-02-10
+eurrob1,European Robin,Erithacus rubecula,L4148152,South Norwood Country Park and LNR,2017-02-11 11:30,51.3980845,-0.0552666,TRUE,FALSE,FALSE,S34290941,NA,NA,2017-02-11
+eurrob1,European Robin,Erithacus rubecula,L939896,WWT London Wetland Centre (from 2000),2017-02-12 17:31,51.4774486,-0.235101,TRUE,FALSE,FALSE,S41523310,NA,6,2017-02-12
+eurrob1,European Robin,Erithacus rubecula,L945563,"St James's Park (do not list Barnacle Goose, Shelduck and other captive birds)",2017-02-13 16:15,51.5031329,-0.1338959,TRUE,FALSE,FALSE,S34351576,NA,2,2017-02-13
+eurrob1,European Robin,Erithacus rubecula,L5436448,Well Wood,2017-02-14 12:45,51.3607146,0.0059223,TRUE,FALSE,FALSE,S34362527,NA,NA,2017-02-14
+eurrob1,European Robin,Erithacus rubecula,L1000253,"Rainham Marshes RSPB Reserve, SSSI and LNR (includes Stone Barges and riverside walk)",2017-02-15 11:50,51.4966805,0.2115243,TRUE,FALSE,FALSE,S34382723,NA,NA,2017-02-15
+eurrob1,European Robin,Erithacus rubecula,L3355039,Victoria Tower Gardens,2017-02-16 13:00,51.4970418,-0.124712,TRUE,FALSE,FALSE,S34400262,NA,1,2017-02-16
+eurrob1,European Robin,Erithacus rubecula,L939896,WWT London Wetland Centre (from 2000),2017-02-17 14:59,51.4774486,-0.235101,TRUE,FALSE,FALSE,S34438369,NA,4,2017-02-17
+eurrob1,European Robin,Erithacus rubecula,L1000253,"Rainham Marshes RSPB Reserve, SSSI and LNR (includes Stone Barges and riverside walk)",2017-02-18 11:30,51.4966805,0.2115243,TRUE,FALSE,FALSE,S34459097,NA,NA,2017-02-18
+eurrob1,European Robin,Erithacus rubecula,L5292253,GB-England-Wallington-Mile Road - 51.3800x-0.1529,2017-02-19 16:25,51.380045,-0.152868,TRUE,FALSE,TRUE,S34512483,NA,4,2017-02-19
+eurrob1,European Robin,Erithacus rubecula,L1066696,Greenwich Park,2017-02-20 14:15,51.4774807,-0.0006008,TRUE,FALSE,FALSE,S34569994,NA,13,2017-02-20
+eurrob1,European Robin,Erithacus rubecula,L5410291,GB-London-9A The Path - 51.412x-0.196 - 6 Feb 2017 08:38,2017-02-21 08:34,51.4120753,-0.1962378,TRUE,FALSE,TRUE,S34605824,NA,NA,2017-02-21
+eurrob1,European Robin,Erithacus rubecula,L8002152,Clissold Park,2017-02-22 11:55,51.5617764,-0.0886763,TRUE,FALSE,FALSE,S34651958,NA,4,2017-02-22
+eurrob1,European Robin,Erithacus rubecula,L939896,WWT London Wetland Centre (from 2000),2017-02-23 10:00,51.4774486,-0.235101,TRUE,FALSE,FALSE,S34667816,NA,3,2017-02-23
+eurrob1,European Robin,Erithacus rubecula,L4148152,South Norwood Country Park and LNR,2017-02-24 15:00,51.3980845,-0.0552666,TRUE,FALSE,FALSE,S34769649,NA,NA,2017-02-24
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-02-25 14:50,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S34791410,NA,3,2017-02-25
+eurrob1,European Robin,Erithacus rubecula,L4216679,Broadwater Lake,2017-02-26 13:30,51.5945085,-0.4934407,TRUE,FALSE,FALSE,S34814265,NA,13,2017-02-26
+eurrob1,European Robin,Erithacus rubecula,L3444730,Queen Elizabeth Olympic Park,2017-02-28 10:00,51.5442266,-0.0162435,TRUE,FALSE,FALSE,S34888686,NA,NA,2017-02-28
+eurrob1,European Robin,Erithacus rubecula,L5653183,Greenhill Gardens,2017-03-01 07:25,51.6437761,-0.1827979,TRUE,FALSE,TRUE,S35698025,NA,2,2017-03-01
+eurrob1,European Robin,Erithacus rubecula,L5295147,Keston Common and Ravenbourne Open Space,2017-03-02 15:00,51.3608459,0.0342786,TRUE,FALSE,FALSE,S34918720,NA,NA,2017-03-02
+eurrob1,European Robin,Erithacus rubecula,L5533607,GB-England-London-24B Albert Street - 51.5342x-0.1414,2017-03-03 12:02,51.53423,-0.141437,TRUE,FALSE,TRUE,S34928533,NA,1,2017-03-03
+eurrob1,European Robin,Erithacus rubecula,L5230496,"River Thames, Fulham",2017-03-04 12:33,51.479982,-0.22377,TRUE,FALSE,TRUE,S34952225,NA,3,2017-03-04
+eurrob1,European Robin,Erithacus rubecula,L929827,Tower of London (please do not report captive ravens),2017-03-05 15:00,51.5081815,-0.076561,TRUE,FALSE,FALSE,S50848809,NA,2,2017-03-05
+eurrob1,European Robin,Erithacus rubecula,L5230496,"River Thames, Fulham",2017-03-06 14:15,51.479982,-0.22377,TRUE,FALSE,TRUE,S35010460,NA,1,2017-03-06
+eurrob1,European Robin,Erithacus rubecula,L4148152,South Norwood Country Park and LNR,2017-03-07 10:00,51.3980845,-0.0552666,TRUE,FALSE,FALSE,S35021664,NA,NA,2017-03-07
+eurrob1,European Robin,Erithacus rubecula,L1122086,Regent's Park (please do not list exotic waterfowl),2017-03-08 13:00,51.5316,-0.1559,TRUE,FALSE,FALSE,S35048765,NA,NA,2017-03-08
+eurrob1,European Robin,Erithacus rubecula,L5565475,Eardley Road Sidings WT NR,2017-03-09 17:00,51.4163682,-0.1434258,TRUE,FALSE,FALSE,S35123688,NA,3,2017-03-09
+eurrob1,European Robin,Erithacus rubecula,L1122086,Regent's Park (please do not list exotic waterfowl),2017-03-10 15:01,51.5316,-0.1559,TRUE,FALSE,FALSE,S35082855,NA,6,2017-03-10
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-03-11 16:00,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S35270471,NA,2,2017-03-11
+eurrob1,European Robin,Erithacus rubecula,L939896,WWT London Wetland Centre (from 2000),2017-03-12 12:40,51.4774486,-0.235101,TRUE,FALSE,FALSE,S35147953,NA,10,2017-03-12
+eurrob1,European Robin,Erithacus rubecula,L4148152,South Norwood Country Park and LNR,2017-03-13 13:00,51.3980845,-0.0552666,TRUE,FALSE,FALSE,S35155721,NA,NA,2017-03-13
+eurrob1,European Robin,Erithacus rubecula,L956644,Kew Royal Botanic Gardens,2017-03-14 10:30,51.4787636,-0.2956009,TRUE,FALSE,FALSE,S35173809,NA,6,2017-03-14
+eurrob1,European Robin,Erithacus rubecula,L4148152,South Norwood Country Park and LNR,2017-03-15 09:00,51.3980845,-0.0552666,TRUE,FALSE,FALSE,S35191225,NA,NA,2017-03-15
+eurrob1,European Robin,Erithacus rubecula,L5578954,GB-West Drayton-5 Colnbrook By-Pass - 51.484x-0.485 - 16 Mar 2017 11:17 am,2017-03-16 11:17,51.4837834,-0.4845201,TRUE,FALSE,TRUE,S35211787,NA,3,2017-03-16
+eurrob1,European Robin,Erithacus rubecula,L5415032,Mudchute Park and Farm,2017-03-17 13:30,51.4912839,-0.0111365,TRUE,FALSE,FALSE,S35231443,NA,NA,2017-03-17
+eurrob1,European Robin,Erithacus rubecula,L5586128,GB-London-30 Cherry Tree Road - 51.586x-0.16 - 18 Mar 2017 16:36,2017-03-18 16:36,51.5863549,-0.1596229,TRUE,FALSE,TRUE,S35254011,NA,2,2017-03-18
+eurrob1,European Robin,Erithacus rubecula,L1122086,Regent's Park (please do not list exotic waterfowl),2017-03-19 14:25,51.5316,-0.1559,TRUE,FALSE,FALSE,S35280344,NA,15,2017-03-19
+eurrob1,European Robin,Erithacus rubecula,L5597438,GB-England-West Drayton-171-183 Station Road - 51.5038x-0.4683,2017-03-20 16:55,51.503829,-0.468261,TRUE,FALSE,TRUE,S35315633,NA,4,2017-03-20
+eurrob1,European Robin,Erithacus rubecula,L2410176,Green Park,2017-03-21 16:48,51.5036913,-0.1437128,TRUE,FALSE,FALSE,S35331388,NA,1,2017-03-21
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-03-22 14:11,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S35350557,NA,9,2017-03-22
+eurrob1,European Robin,Erithacus rubecula,L1800098,Battersea Park,2017-03-23 15:52,51.4802877,-0.1552555,TRUE,FALSE,FALSE,S35380075,NA,17,2017-03-23
+eurrob1,European Robin,Erithacus rubecula,L3806859,Moor Lane,2017-03-24 16:00,51.4898143,-0.4799545,TRUE,FALSE,TRUE,S35521264,NA,4,2017-03-24
+eurrob1,European Robin,Erithacus rubecula,L2321347,London Wetland Centre,2017-03-25 13:00,51.4766521,-0.2355838,TRUE,FALSE,TRUE,S35416838,NA,NA,2017-03-25
+eurrob1,European Robin,Erithacus rubecula,L6331895,Gunnersbury Park,2017-03-26 18:00,51.4980237,-0.2918673,TRUE,FALSE,FALSE,S35451846,NA,1,2017-03-26
+eurrob1,European Robin,Erithacus rubecula,L5659879,"51.4833x-0.4405 - Mar 27, 2017, 6:38 PM",2017-03-27 18:36,51.483341,-0.440468,TRUE,FALSE,TRUE,S35733618,NA,1,2017-03-27
+eurrob1,European Robin,Erithacus rubecula,L939855,Alexandra Park (London),2017-03-28 17:15,51.5933888,-0.1266003,TRUE,FALSE,FALSE,S35495535,NA,9,2017-03-28
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2017-03-29 18:02,51.595709,-0.1394567,TRUE,FALSE,TRUE,S35518111,NA,3,2017-03-29
+eurrob1,European Robin,Erithacus rubecula,L7108960,"UK, Ecceleston Square, London",2017-03-30 16:00,51.4920524,-0.1441874,TRUE,FALSE,TRUE,S43898980,NA,5,2017-03-30
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-03-31 18:25,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S35591490,NA,20,2017-03-31
+eurrob1,European Robin,Erithacus rubecula,L1066696,Greenwich Park,2017-04-01 17:36,51.4774807,-0.0006008,TRUE,FALSE,FALSE,S35631383,NA,8,2017-04-01
+eurrob1,European Robin,Erithacus rubecula,L5386528,"Addiscombe Court Road, Croydon",2017-04-02 11:30,51.3772721,-0.0846934,TRUE,FALSE,TRUE,S35676610,NA,2,2017-04-02
+eurrob1,European Robin,Erithacus rubecula,L3444730,Queen Elizabeth Olympic Park,2017-04-03 17:15,51.5442266,-0.0162435,TRUE,FALSE,FALSE,S35672852,NA,5,2017-04-03
+eurrob1,European Robin,Erithacus rubecula,L2107038,Hampton Court Park,2017-04-04 10:30,51.4016688,-0.3225517,TRUE,FALSE,TRUE,S35689484,NA,1,2017-04-04
+eurrob1,European Robin,Erithacus rubecula,L939855,Alexandra Park (London),2017-04-05 17:42,51.5933888,-0.1266003,TRUE,FALSE,FALSE,S36018077,NA,6,2017-04-05
+eurrob1,European Robin,Erithacus rubecula,L6109415,Upminster-Cranham Brickfields-Thames Chase,2017-04-06 11:52,51.5649046,0.2839038,TRUE,FALSE,TRUE,S35766842,NA,2,2017-04-06
+eurrob1,European Robin,Erithacus rubecula,L5664468,GB-London-81 Henningham Road - 51.604x-0.081 - 7 Apr 2017 3:36 pm,2017-04-07 15:36,51.6036509,-0.081398,TRUE,FALSE,TRUE,S35762446,NA,1,2017-04-07
+eurrob1,European Robin,Erithacus rubecula,L1000253,"Rainham Marshes RSPB Reserve, SSSI and LNR (includes Stone Barges and riverside walk)",2017-04-08 10:46,51.4966805,0.2115243,TRUE,FALSE,FALSE,S35781788,NA,1,2017-04-08
+eurrob1,European Robin,Erithacus rubecula,L945563,"St James's Park (do not list Barnacle Goose, Shelduck and other captive birds)",2017-04-09 12:45,51.5031329,-0.1338959,TRUE,FALSE,FALSE,S35810630,NA,2,2017-04-09
+eurrob1,European Robin,Erithacus rubecula,L2131926,Hyde Park,2017-04-10 08:30,51.5061916,-0.1618767,TRUE,FALSE,TRUE,S35840712,NA,5,2017-04-10
+eurrob1,European Robin,Erithacus rubecula,L7109023,"UK, Leonardo Motel to Three Magpies, London, UK",2017-04-11 17:00,51.4814235,-0.4578475,TRUE,FALSE,TRUE,S43899511,NA,4,2017-04-11
+eurrob1,European Robin,Erithacus rubecula,L3947300,Victoria Embankment Gardens,2017-04-12 18:00,51.5091363,-0.1205502,TRUE,FALSE,FALSE,S36032812,NA,2,2017-04-12
+eurrob1,European Robin,Erithacus rubecula,L4460328,"Acton Park (Acton, London)",2017-04-13 18:02,51.5076726,-0.2598873,TRUE,FALSE,FALSE,S35923506,NA,NA,2017-04-13
+eurrob1,European Robin,Erithacus rubecula,L1122086,Regent's Park (please do not list exotic waterfowl),2017-04-14 08:20,51.5316,-0.1559,TRUE,FALSE,FALSE,S35939462,NA,2,2017-04-14
+eurrob1,European Robin,Erithacus rubecula,L5700552,The London Zoo,2017-04-15 15:14,51.5362329,-0.1558875,TRUE,FALSE,TRUE,S35980149,NA,1,2017-04-15
+eurrob1,European Robin,Erithacus rubecula,L1236726,Walthamstow Marshes SSSI,2017-04-16 08:20,51.5693585,-0.0509191,TRUE,FALSE,FALSE,S36006519,NA,NA,2017-04-16
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-04-17 18:15,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S36049027,NA,1,2017-04-17
+eurrob1,European Robin,Erithacus rubecula,L3947300,Victoria Embankment Gardens,2017-04-18 13:40,51.5091363,-0.1205502,TRUE,FALSE,FALSE,S36113265,NA,1,2017-04-18
+eurrob1,European Robin,Erithacus rubecula,L939896,WWT London Wetland Centre (from 2000),2017-04-19 19:17,51.4774486,-0.235101,TRUE,FALSE,FALSE,S36117165,NA,8,2017-04-19
+eurrob1,European Robin,Erithacus rubecula,L925446,Three Mills Studios and Abbey Creek,2017-04-20 13:15,51.5280499,-0.0057936,TRUE,FALSE,TRUE,S36118866,NA,2,2017-04-20
+eurrob1,European Robin,Erithacus rubecula,L1000253,"Rainham Marshes RSPB Reserve, SSSI and LNR (includes Stone Barges and riverside walk)",2017-04-21 11:55,51.4966805,0.2115243,TRUE,FALSE,FALSE,S36150508,NA,2,2017-04-21
+eurrob1,European Robin,Erithacus rubecula,L5733303,"GB-England-BR2 - 51.3768x0.0370 - 22 Apr 2017, 19:20",2017-04-22 19:20,51.376761,0.037045,TRUE,FALSE,TRUE,S36172826,NA,1,2017-04-22
+eurrob1,European Robin,Erithacus rubecula,L1122086,Regent's Park (please do not list exotic waterfowl),2017-04-23 14:15,51.5316,-0.1559,TRUE,FALSE,FALSE,S36450715,NA,6,2017-04-23
+eurrob1,European Robin,Erithacus rubecula,L956644,Kew Royal Botanic Gardens,2017-04-24 15:30,51.4787636,-0.2956009,TRUE,FALSE,FALSE,S36533649,NA,6,2017-04-24
+eurrob1,European Robin,Erithacus rubecula,L4216679,Broadwater Lake,2017-04-25 11:50,51.5945085,-0.4934407,TRUE,FALSE,FALSE,S36256307,NA,15,2017-04-25
+eurrob1,European Robin,Erithacus rubecula,L1000253,"Rainham Marshes RSPB Reserve, SSSI and LNR (includes Stone Barges and riverside walk)",2017-04-26 14:44,51.4966805,0.2115243,TRUE,FALSE,FALSE,S36283355,NA,2,2017-04-26
+eurrob1,European Robin,Erithacus rubecula,L4148152,South Norwood Country Park and LNR,2017-04-27 15:30,51.3980845,-0.0552666,TRUE,FALSE,FALSE,S36308929,NA,NA,2017-04-27
+eurrob1,European Robin,Erithacus rubecula,L13734249,South Croxted Road,2017-04-28 13:00,51.4359822,-0.090442,TRUE,FALSE,TRUE,S82064311,NA,NA,2017-04-28
+eurrob1,European Robin,Erithacus rubecula,L1236726,Walthamstow Marshes SSSI,2017-04-29 13:30,51.5693585,-0.0509191,TRUE,FALSE,FALSE,S36648604,NA,5,2017-04-29
+eurrob1,European Robin,Erithacus rubecula,L945563,"St James's Park (do not list Barnacle Goose, Shelduck and other captive birds)",2017-04-30 13:00,51.5031329,-0.1338959,TRUE,FALSE,FALSE,S205767902,NA,NA,2017-04-30
+eurrob1,European Robin,Erithacus rubecula,L5772241,"GB-England-Flash Lane - 51.6756x-0.0904 - May 1, 2017, 6:18 PM",2017-05-01 18:20,51.675625,-0.0904,TRUE,FALSE,TRUE,S36457343,NA,1,2017-05-01
+eurrob1,European Robin,Erithacus rubecula,L2910495,"Pembridge Square Gardens, Notting Hill",2017-05-02 17:55,51.5115782,-0.196099,TRUE,FALSE,TRUE,S36485152,NA,3,2017-05-02
+eurrob1,European Robin,Erithacus rubecula,L939896,WWT London Wetland Centre (from 2000),2017-05-03 12:50,51.4774486,-0.235101,TRUE,FALSE,FALSE,S36505955,NA,2,2017-05-03
+eurrob1,European Robin,Erithacus rubecula,L1107441,Hampton Court Palace,2017-05-04 12:00,51.4038802,-0.3384647,TRUE,FALSE,FALSE,S36541158,NA,5,2017-05-04
+eurrob1,European Robin,Erithacus rubecula,L1066696,Greenwich Park,2017-05-05 18:27,51.4774807,-0.0006008,TRUE,FALSE,FALSE,S36571479,NA,7,2017-05-05
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-05-06 16:15,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S36595156,NA,3,2017-05-06
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-05-07 16:30,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S36649009,NA,4,2017-05-07
+eurrob1,European Robin,Erithacus rubecula,L1000253,"Rainham Marshes RSPB Reserve, SSSI and LNR (includes Stone Barges and riverside walk)",2017-05-08 16:46,51.4966805,0.2115243,TRUE,FALSE,FALSE,S36771131,NA,1,2017-05-08
+eurrob1,European Robin,Erithacus rubecula,L5295147,Keston Common and Ravenbourne Open Space,2017-05-09 18:00,51.3608459,0.0342786,TRUE,FALSE,FALSE,S36714624,NA,NA,2017-05-09
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2017-05-10 16:25,51.595709,-0.1394567,TRUE,FALSE,TRUE,S36716291,NA,1,2017-05-10
+eurrob1,European Robin,Erithacus rubecula,L5119130,GB-England-London-Clissold Park - 51.5632x-0.0901,2017-05-11 18:20,51.563228,-0.090147,TRUE,FALSE,TRUE,S36736324,NA,4,2017-05-11
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-05-12,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S207001510,NA,NA,2017-05-12
+eurrob1,European Robin,Erithacus rubecula,L1122086,Regent's Park (please do not list exotic waterfowl),2017-05-13 12:42,51.5316,-0.1559,TRUE,FALSE,FALSE,S36790805,NA,6,2017-05-13
+eurrob1,European Robin,Erithacus rubecula,L4066691,Woodberry Wetlands LWT NR,2017-05-14 13:20,51.5713457,-0.0859165,TRUE,FALSE,FALSE,S40677638,NA,NA,2017-05-14
+eurrob1,European Robin,Erithacus rubecula,L3355039,Victoria Tower Gardens,2017-05-15 13:25,51.4970418,-0.124712,TRUE,FALSE,FALSE,S36869815,NA,1,2017-05-15
+eurrob1,European Robin,Erithacus rubecula,L1000253,"Rainham Marshes RSPB Reserve, SSSI and LNR (includes Stone Barges and riverside walk)",2017-05-16 11:30,51.4966805,0.2115243,TRUE,FALSE,FALSE,S43404217,NA,1,2017-05-16
+eurrob1,European Robin,Erithacus rubecula,L1800098,Battersea Park,2017-05-17 16:23,51.4802877,-0.1552555,TRUE,FALSE,FALSE,S36935471,NA,5,2017-05-17
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-05-18 18:00,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S36963932,NA,1,2017-05-18
+eurrob1,European Robin,Erithacus rubecula,L3278538,Victoria Park (South Hackney),2017-05-19 17:15,51.5357653,-0.0402546,TRUE,FALSE,FALSE,S37035374,NA,9,2017-05-19
+eurrob1,European Robin,Erithacus rubecula,L3341477,Crossness Sewage Works and LNR,2017-05-20 15:20,51.5048319,0.1481009,TRUE,FALSE,FALSE,S37015952,NA,1,2017-05-20
+eurrob1,European Robin,Erithacus rubecula,L5868370,Coppetts Wood and Glebelands LNR,2017-05-21 14:44,51.608447,-0.1574,TRUE,FALSE,FALSE,S37043979,NA,4,2017-05-21
+eurrob1,European Robin,Erithacus rubecula,L1402306,Leyton Flats,2017-05-22 09:27,51.5787073,0.0158131,TRUE,FALSE,FALSE,S37067917,NA,NA,2017-05-22
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2017-05-23 18:02,51.595709,-0.1394567,TRUE,FALSE,TRUE,S37097912,NA,1,2017-05-23
+eurrob1,European Robin,Erithacus rubecula,L5880794,Sydenham Hill Wood,2017-05-24 19:00,51.4366531,-0.067141,TRUE,FALSE,FALSE,S37119207,NA,1,2017-05-24
+eurrob1,European Robin,Erithacus rubecula,L5292947,GB-England-Wallington-Wilderness Island - 51.3734x-0.1579,2017-05-25 10:00,51.373354,-0.157863,TRUE,FALSE,TRUE,S37136623,NA,1,2017-05-25
+eurrob1,European Robin,Erithacus rubecula,L5227298,Ruislip Lido,2017-05-26 10:10,51.5906053,-0.4302478,TRUE,FALSE,FALSE,S37155710,NA,10,2017-05-26
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-05-27 16:05,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S37216236,NA,2,2017-05-27
+eurrob1,European Robin,Erithacus rubecula,L1000253,"Rainham Marshes RSPB Reserve, SSSI and LNR (includes Stone Barges and riverside walk)",2017-05-28 07:48,51.4966805,0.2115243,TRUE,FALSE,FALSE,S40133232,NA,2,2017-05-28
+eurrob1,European Robin,Erithacus rubecula,L5911421,Barking Creek,2017-05-29 12:15,51.5297196,0.0760031,TRUE,FALSE,TRUE,S37282505,NA,2,2017-05-29
+eurrob1,European Robin,Erithacus rubecula,L12106996,Bromley Common,2017-05-30 14:30,51.3823514,0.0303239,TRUE,FALSE,FALSE,S93148661,NA,NA,2017-05-30
+eurrob1,European Robin,Erithacus rubecula,L2958232,Heathrow Airport,2017-05-31 19:20,51.4713861,-0.4568768,TRUE,FALSE,FALSE,S37290787,NA,1,2017-05-31
+eurrob1,European Robin,Erithacus rubecula,L16490006,High Elms,2017-06-01 10:30,51.3520717,0.0741255,TRUE,FALSE,TRUE,S95283619,NA,NA,2017-06-01
+eurrob1,European Robin,Erithacus rubecula,L929827,Tower of London (please do not report captive ravens),2017-06-02 13:57,51.5081815,-0.076561,TRUE,FALSE,FALSE,S37353412,NA,2,2017-06-02
+eurrob1,European Robin,Erithacus rubecula,L1122086,Regent's Park (please do not list exotic waterfowl),2017-06-03 15:30,51.5316,-0.1559,TRUE,FALSE,FALSE,S37353332,NA,4,2017-06-03
+eurrob1,European Robin,Erithacus rubecula,L51756603,Foots Cray Meadows,2017-06-04 15:30,51.423738,0.120592,TRUE,FALSE,TRUE,S268433416,NA,NA,2017-06-04
+eurrob1,European Robin,Erithacus rubecula,L4152791,Morden Hall Park,2017-06-05 17:00,51.4026835,-0.1851904,TRUE,FALSE,FALSE,S70975331,NA,4,2017-06-05
+eurrob1,European Robin,Erithacus rubecula,L11799699,"Tooting Grove, London GB-England (51.4254,-0.1709)",2017-06-06 20:53,51.425406,-0.170911,TRUE,FALSE,TRUE,S70965583,NA,5,2017-06-06
+eurrob1,European Robin,Erithacus rubecula,L956644,Kew Royal Botanic Gardens,2017-06-07 10:45,51.4787636,-0.2956009,TRUE,FALSE,FALSE,S70975759,NA,8,2017-06-07
+eurrob1,European Robin,Erithacus rubecula,L939855,Alexandra Park (London),2017-06-09 18:19,51.5933888,-0.1266003,TRUE,FALSE,FALSE,S37548530,NA,1,2017-06-09
+eurrob1,European Robin,Erithacus rubecula,L1006681,Richmond Park (London),2017-06-10 19:30,51.4471069,-0.2717829,TRUE,FALSE,FALSE,S37552598,NA,1,2017-06-10
+eurrob1,European Robin,Erithacus rubecula,L51756571,Kennington Park,2017-06-11 18:30,51.483818,-0.108833,TRUE,FALSE,TRUE,S268429689,NA,NA,2017-06-11
+eurrob1,European Robin,Erithacus rubecula,L51756593,Eltham,2017-06-12 16:00,51.450739,0.053687,TRUE,FALSE,TRUE,S268438099,NA,NA,2017-06-12
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-06-13 18:03,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S37570568,NA,1,2017-06-13
+eurrob1,European Robin,Erithacus rubecula,L6047902,Vauxhall Park,2017-06-14 07:05,51.482871,-0.121964,TRUE,FALSE,FALSE,S81757880,NA,3,2017-06-14
+eurrob1,European Robin,Erithacus rubecula,L945563,"St James's Park (do not list Barnacle Goose, Shelduck and other captive birds)",2017-06-16 18:30,51.5031329,-0.1338959,TRUE,FALSE,FALSE,S37700177,NA,2,2017-06-16
+eurrob1,European Robin,Erithacus rubecula,L5295147,Keston Common and Ravenbourne Open Space,2017-06-17 16:20,51.3608459,0.0342786,TRUE,FALSE,FALSE,S37676857,NA,3,2017-06-17
+eurrob1,European Robin,Erithacus rubecula,L5037475,103 Pembury Avenue,2017-06-18 09:00,51.3844773,-0.2430511,TRUE,FALSE,TRUE,S37656007,NA,1,2017-06-18
+eurrob1,European Robin,Erithacus rubecula,L1973820,Wormwood Scrubs LNR,2017-06-19 07:55,51.5219888,-0.2379227,TRUE,FALSE,FALSE,S102031640,NA,1,2017-06-19
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-06-20 18:12,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S37703105,NA,2,2017-06-20
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-06-21 05:31,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S37715700,NA,3,2017-06-21
+eurrob1,European Robin,Erithacus rubecula,L1800098,Battersea Park,2017-06-22 17:17,51.4802877,-0.1552555,TRUE,FALSE,FALSE,S37751054,NA,4,2017-06-22
+eurrob1,European Robin,Erithacus rubecula,L12106444,Peckham Rye Park and Common,2017-06-23 20:48,51.4574077,-0.059532,TRUE,FALSE,FALSE,S37759128,NA,1,2017-06-23
+eurrob1,European Robin,Erithacus rubecula,L956644,Kew Royal Botanic Gardens,2017-06-24 16:00,51.4787636,-0.2956009,TRUE,FALSE,FALSE,S111417649,NA,1,2017-06-24
+eurrob1,European Robin,Erithacus rubecula,L6057356,Trent Park,2017-06-25 15:15,51.662973,-0.1395607,TRUE,FALSE,TRUE,S37989102,NA,2,2017-06-25
+eurrob1,European Robin,Erithacus rubecula,L22379595,Hyde Park,2017-06-26 09:29,51.5065727,-0.1673971,TRUE,FALSE,TRUE,S127121562,NA,NA,2017-06-26
+eurrob1,European Robin,Erithacus rubecula,L6026113,home,2017-06-27 10:00,51.3270183,-0.1168585,TRUE,FALSE,TRUE,S37834930,NA,2,2017-06-27
+eurrob1,European Robin,Erithacus rubecula,L1402306,Leyton Flats,2017-06-28 07:00,51.5787073,0.0158131,TRUE,FALSE,FALSE,S37849188,NA,NA,2017-06-28
+eurrob1,European Robin,Erithacus rubecula,L3670831,Hampstead Heath,2017-06-29 19:15,51.5618116,-0.1633787,TRUE,FALSE,FALSE,S75486091,NA,1,2017-06-29
+eurrob1,European Robin,Erithacus rubecula,L5441874,Grovelands Park,2017-06-30 08:15,51.6320569,-0.1142728,TRUE,FALSE,FALSE,S38079951,NA,2,2017-06-30
+eurrob1,European Robin,Erithacus rubecula,L12105527,Eastbrookend Country Park LNR,2017-07-01 10:00,51.5561165,0.1731446,TRUE,FALSE,FALSE,S127325648,NA,NA,2017-07-01
+eurrob1,European Robin,Erithacus rubecula,L5880794,Sydenham Hill Wood,2017-07-02 15:12,51.4366531,-0.067141,TRUE,FALSE,FALSE,S37928074,NA,1,2017-07-02
+eurrob1,European Robin,Erithacus rubecula,L6068717,Paradise Park,2017-07-03 19:00,51.4931508,-0.1191473,TRUE,FALSE,TRUE,S38044034,NA,2,2017-07-03
+eurrob1,European Robin,Erithacus rubecula,L1000253,"Rainham Marshes RSPB Reserve, SSSI and LNR (includes Stone Barges and riverside walk)",2017-07-04,51.4966805,0.2115243,TRUE,FALSE,FALSE,S77778796,NA,1,2017-07-04
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-07-05 09:00,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S38110346,NA,2,2017-07-05
+eurrob1,European Robin,Erithacus rubecula,L3127820,Harmsworth Park,2017-07-06 09:00,51.4952785,-0.1079106,TRUE,FALSE,TRUE,S38043980,NA,1,2017-07-06
+eurrob1,European Robin,Erithacus rubecula,L7354730,Archbishop's Park,2017-07-07 12:25,51.4971621,-0.116837,TRUE,FALSE,FALSE,S38012832,NA,2,2017-07-07
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-07-08 13:00,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S38055448,NA,1,2017-07-08
+eurrob1,European Robin,Erithacus rubecula,L5400834,Lloyd Park (Croydon),2017-07-09 10:30,51.3664273,-0.0756758,TRUE,FALSE,FALSE,S38044169,NA,1,2017-07-09
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-07-10,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S44458601,NA,2,2017-07-10
+eurrob1,European Robin,Erithacus rubecula,L1000253,"Rainham Marshes RSPB Reserve, SSSI and LNR (includes Stone Barges and riverside walk)",2017-07-11,51.4966805,0.2115243,TRUE,FALSE,FALSE,S78638482,NA,1,2017-07-11
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-07-12 12:00,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S38661634,NA,1,2017-07-12
+eurrob1,European Robin,Erithacus rubecula,L6084837,London Docks,2017-07-13 18:15,51.5082155,-0.0541965,TRUE,FALSE,TRUE,S38124928,NA,1,2017-07-13
+eurrob1,European Robin,Erithacus rubecula,L2958232,Heathrow Airport,2017-07-14 14:01,51.4713861,-0.4568768,TRUE,FALSE,FALSE,S38126007,NA,1,2017-07-14
+eurrob1,European Robin,Erithacus rubecula,L16766824,Paddington,2017-07-15 18:00,51.5116077,-0.1778787,TRUE,FALSE,TRUE,S96866033,NA,1,2017-07-15
+eurrob1,European Robin,Erithacus rubecula,L6092312,Hyde Park and Kensington Gardens,2017-07-16 12:26,51.505644,-0.1626921,TRUE,FALSE,TRUE,S38163205,NA,1,2017-07-16
+eurrob1,European Robin,Erithacus rubecula,L4460328,"Acton Park (Acton, London)",2017-07-17 08:45,51.5076726,-0.2598873,TRUE,FALSE,FALSE,S38183922,NA,1,2017-07-17
+eurrob1,European Robin,Erithacus rubecula,L939855,Alexandra Park (London),2017-07-18 10:55,51.5933888,-0.1266003,TRUE,FALSE,FALSE,S38201362,NA,2,2017-07-18
+eurrob1,European Robin,Erithacus rubecula,L5227298,Ruislip Lido,2017-07-19 12:35,51.5906053,-0.4302478,TRUE,FALSE,FALSE,S38218563,NA,2,2017-07-19
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-07-20 14:00,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S91524207,NA,1,2017-07-20
+eurrob1,European Robin,Erithacus rubecula,L6109415,Upminster-Cranham Brickfields-Thames Chase,2017-07-21 16:20,51.5649046,0.2839038,TRUE,FALSE,TRUE,S38249790,NA,1,2017-07-21
+eurrob1,European Robin,Erithacus rubecula,L5386528,"Addiscombe Court Road, Croydon",2017-07-22 11:40,51.3772721,-0.0846934,TRUE,FALSE,TRUE,S38284794,NA,1,2017-07-22
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-07-23 10:47,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S38283590,NA,3,2017-07-23
+eurrob1,European Robin,Erithacus rubecula,L12106548,South London Downs NNR--Riddlesdown Common,2017-07-24 11:00,51.3243659,-0.0931494,TRUE,FALSE,FALSE,S95283858,NA,NA,2017-07-24
+eurrob1,European Robin,Erithacus rubecula,L1777790,Holland Park,2017-07-25 18:30,51.5023649,-0.2030854,TRUE,FALSE,FALSE,S38319489,NA,1,2017-07-25
+eurrob1,European Robin,Erithacus rubecula,L1122086,Regent's Park (please do not list exotic waterfowl),2017-07-26 10:55,51.5316,-0.1559,TRUE,FALSE,FALSE,S40203464,NA,1,2017-07-26
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-07-28 11:30,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S38439136,NA,1,2017-07-28
+eurrob1,European Robin,Erithacus rubecula,L945563,"St James's Park (do not list Barnacle Goose, Shelduck and other captive birds)",2017-07-29 08:00,51.5031329,-0.1338959,TRUE,FALSE,FALSE,S38369778,NA,1,2017-07-29
+eurrob1,European Robin,Erithacus rubecula,L1122086,Regent's Park (please do not list exotic waterfowl),2017-07-30 14:00,51.5316,-0.1559,TRUE,FALSE,FALSE,S47993199,NA,2,2017-07-30
+eurrob1,European Robin,Erithacus rubecula,L939896,WWT London Wetland Centre (from 2000),2017-07-31 12:40,51.4774486,-0.235101,TRUE,FALSE,FALSE,S38406802,NA,NA,2017-07-31
+eurrob1,European Robin,Erithacus rubecula,L1344841,Brent Reservoir,2017-08-01 19:00,51.5705173,-0.2462203,TRUE,FALSE,FALSE,S38501845,NA,NA,2017-08-01
+eurrob1,European Robin,Erithacus rubecula,L954224,Wanstead Park,2017-08-02 09:30,51.5666136,0.0309849,TRUE,FALSE,FALSE,S38441532,NA,3,2017-08-02
+eurrob1,European Robin,Erithacus rubecula,L6823030,Mile End Park,2017-08-03 18:00,51.526333,-0.0378487,TRUE,FALSE,FALSE,S38468413,NA,2,2017-08-03
+eurrob1,European Robin,Erithacus rubecula,L2083779,Walthamstow Wetlands,2017-08-04 07:30,51.5856349,-0.0539798,TRUE,FALSE,FALSE,S38468617,NA,3,2017-08-04
+eurrob1,European Robin,Erithacus rubecula,L3840448,Buckingham Palace Gardens (Restricted access),2017-08-05 16:37,51.500906,-0.146461,TRUE,FALSE,FALSE,S38595634,NA,1,2017-08-05
+eurrob1,European Robin,Erithacus rubecula,L13015951,"Walthamstow, Edward Road",2017-08-06 10:00,51.5816006,-0.0390512,TRUE,FALSE,TRUE,S38506803,NA,2,2017-08-06
+eurrob1,European Robin,Erithacus rubecula,L3355039,Victoria Tower Gardens,2017-08-07 08:10,51.4970418,-0.124712,TRUE,FALSE,FALSE,S38522197,NA,1,2017-08-07
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-08-08 14:30,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S38540535,NA,NA,2017-08-08
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2017-08-09,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S98359779,NA,NA,2017-08-09
+eurrob1,European Robin,Erithacus rubecula,L3786424,Natural History Museum,2017-08-10 10:08,51.4957514,-0.1763177,TRUE,FALSE,FALSE,S38577160,NA,1,2017-08-10
+eurrob1,European Robin,Erithacus rubecula,L6172471,"12 Bolton Road, Londra GB-Inghilterra (51,4797,-0,2694)",2017-08-11 20:23,51.479746,-0.269425,TRUE,FALSE,TRUE,S38591305,NA,3,2017-08-11
+eurrob1,European Robin,Erithacus rubecula,L12107115,Spa Fields,2017-08-12 15:12,51.525846,-0.1073894,TRUE,FALSE,FALSE,S38604781,NA,1,2017-08-12
+eurrob1,European Robin,Erithacus rubecula,L1236726,Walthamstow Marshes SSSI,2017-08-13 11:00,51.5693585,-0.0509191,TRUE,FALSE,FALSE,S38624594,NA,2,2017-08-13
+eurrob1,European Robin,Erithacus rubecula,L3902986,Rainham Landfill (restricted access),2017-08-14 08:40,51.4935685,0.1954794,TRUE,FALSE,FALSE,S38646208,NA,1,2017-08-14
+eurrob1,European Robin,Erithacus rubecula,L5373198,Bethlem Royal Hospital Grounds,2017-08-15 18:00,51.3843434,-0.0338602,TRUE,FALSE,FALSE,S38669210,NA,NA,2017-08-15
+eurrob1,European Robin,Erithacus rubecula,L6187961,Thames Barrier and Park,2017-08-16 15:00,51.4997055,0.0358772,TRUE,FALSE,FALSE,S38676468,NA,1,2017-08-16
+eurrob1,European Robin,Erithacus rubecula,L3331194,Southwark Park,2017-08-17 19:00,51.4940227,-0.0546312,TRUE,FALSE,FALSE,S38695643,NA,1,2017-08-17
+eurrob1,European Robin,Erithacus rubecula,L8895020,Brockwell Park,2017-08-18 08:48,51.4507442,-0.1065159,TRUE,FALSE,FALSE,S75595474,NA,1,2017-08-18
+eurrob1,European Robin,Erithacus rubecula,L3444730,Queen Elizabeth Olympic Park,2017-08-19 07:08,51.5442266,-0.0162435,TRUE,FALSE,FALSE,S38710001,NA,14,2017-08-19
+eurrob1,European Robin,Erithacus rubecula,L6198710,"30 The Queen's Walk, London, England, GB (51.505, -0.12)",2017-08-20 19:30,51.5045483,-0.1195269,TRUE,FALSE,TRUE,S38734469,NA,1,2017-08-20
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-08-21 18:16,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S38751523,NA,4,2017-08-21
+eurrob1,European Robin,Erithacus rubecula,L3670831,Hampstead Heath,2017-08-22 18:30,51.5618116,-0.1633787,TRUE,FALSE,FALSE,S38785934,NA,NA,2017-08-22
+eurrob1,European Robin,Erithacus rubecula,L939855,Alexandra Park (London),2017-08-23 17:21,51.5933888,-0.1266003,TRUE,FALSE,FALSE,S38909608,NA,2,2017-08-23
+eurrob1,European Robin,Erithacus rubecula,L1344841,Brent Reservoir,2017-08-24 18:00,51.5705173,-0.2462203,TRUE,FALSE,FALSE,S38978492,NA,NA,2017-08-24
+eurrob1,European Robin,Erithacus rubecula,L1122086,Regent's Park (please do not list exotic waterfowl),2017-08-25,51.5316,-0.1559,TRUE,FALSE,FALSE,S66331328,NA,NA,2017-08-25
+eurrob1,European Robin,Erithacus rubecula,L1800098,Battersea Park,2017-08-26 17:45,51.4802877,-0.1552555,TRUE,FALSE,FALSE,S75476501,NA,1,2017-08-26
+eurrob1,European Robin,Erithacus rubecula,L2082952,Wandsworth Common,2017-08-27 18:05,51.4485511,-0.1673698,TRUE,FALSE,FALSE,S75411073,NA,2,2017-08-27
+eurrob1,European Robin,Erithacus rubecula,L1122086,Regent's Park (please do not list exotic waterfowl),2017-08-28,51.5316,-0.1559,TRUE,FALSE,FALSE,S66335128,NA,NA,2017-08-28
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-08-29 16:15,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S38901279,NA,4,2017-08-29
+eurrob1,European Robin,Erithacus rubecula,L939855,Alexandra Park (London),2017-08-31 18:02,51.5933888,-0.1266003,TRUE,FALSE,FALSE,S39124099,NA,2,2017-08-31
+eurrob1,European Robin,Erithacus rubecula,L6232256,"1–2 Totteridge Green, London GB-England (51.6253,-0.1945)",2017-09-01 09:06,51.625326,-0.194513,TRUE,FALSE,TRUE,S38933751,NA,2,2017-09-01
+eurrob1,European Robin,Erithacus rubecula,L1344841,Brent Reservoir,2017-09-02 14:00,51.5705173,-0.2462203,TRUE,FALSE,FALSE,S38978387,NA,NA,2017-09-02
+eurrob1,European Robin,Erithacus rubecula,L3444730,Queen Elizabeth Olympic Park,2017-09-03 07:00,51.5442266,-0.0162435,TRUE,FALSE,FALSE,S38998224,NA,NA,2017-09-03
+eurrob1,European Robin,Erithacus rubecula,L8895020,Brockwell Park,2017-09-04 16:30,51.4507442,-0.1065159,TRUE,FALSE,FALSE,S75596916,NA,2,2017-09-04
+eurrob1,European Robin,Erithacus rubecula,L6245560,"3 Turnberry Quay, London GB-England (51.4962,-0.0164)",2017-09-05 18:10,51.496196,-0.016357,TRUE,FALSE,TRUE,S39018541,NA,2,2017-09-05
+eurrob1,European Robin,Erithacus rubecula,L2082952,Wandsworth Common,2017-09-07 09:30,51.4485511,-0.1673698,TRUE,FALSE,FALSE,S39083368,NA,1,2017-09-07
+eurrob1,European Robin,Erithacus rubecula,L939896,WWT London Wetland Centre (from 2000),2017-09-08 11:20,51.4774486,-0.235101,TRUE,FALSE,FALSE,S39064294,NA,8,2017-09-08
+eurrob1,European Robin,Erithacus rubecula,L8895020,Brockwell Park,2017-09-09 13:00,51.4507442,-0.1065159,TRUE,FALSE,FALSE,S75598192,NA,1,2017-09-09
+eurrob1,European Robin,Erithacus rubecula,L6258230,"41 Epworth Road, Isleworth GB-England (51.4798,-0.3214)",2017-09-10 11:44,51.479782,-0.321368,TRUE,FALSE,TRUE,S39101854,NA,1,2017-09-10
+eurrob1,European Robin,Erithacus rubecula,L6262371,"5 Heathfield Rd, Wandsworth, London",2017-09-11 15:45,51.4487517,-0.1747835,TRUE,FALSE,TRUE,S39127940,NA,1,2017-09-11
+eurrob1,European Robin,Erithacus rubecula,L1000253,"Rainham Marshes RSPB Reserve, SSSI and LNR (includes Stone Barges and riverside walk)",2017-09-12 10:25,51.4966805,0.2115243,TRUE,FALSE,FALSE,S39156888,NA,1,2017-09-12
+eurrob1,European Robin,Erithacus rubecula,L6274902,"1–4 Cudham Lane South, Sevenoaks GB-England (51.3178,0.0736)",2017-09-15 17:18,51.317818,0.073581,TRUE,FALSE,TRUE,S39217955,NA,1,2017-09-15
+eurrob1,European Robin,Erithacus rubecula,L6274902,"1–4 Cudham Lane South, Sevenoaks GB-England (51.3178,0.0736)",2017-09-16 16:14,51.317818,0.073581,TRUE,FALSE,TRUE,S39227676,NA,2,2017-09-16
+eurrob1,European Robin,Erithacus rubecula,L4509924,Muswell Hill--Pembroke Mews,2017-09-17 18:33,51.602614,-0.145284,TRUE,FALSE,TRUE,S39234124,NA,1,2017-09-17
+eurrob1,European Robin,Erithacus rubecula,L1122086,Regent's Park (please do not list exotic waterfowl),2017-09-18 15:29,51.5316,-0.1559,TRUE,FALSE,FALSE,S78452740,NA,2,2017-09-18
+eurrob1,European Robin,Erithacus rubecula,L6275921,"NW7, London GB-England (51.6262,-0.2125)",2017-09-19 14:36,51.626198,-0.212499,TRUE,FALSE,TRUE,S39275244,NA,4,2017-09-19
+eurrob1,European Robin,Erithacus rubecula,L8895020,Brockwell Park,2017-09-20 17:30,51.4507442,-0.1065159,TRUE,FALSE,FALSE,S75600706,NA,1,2017-09-20
+eurrob1,European Robin,Erithacus rubecula,L8895020,Brockwell Park,2017-09-21 18:15,51.4507442,-0.1065159,TRUE,FALSE,FALSE,S75602009,NA,1,2017-09-21
+eurrob1,European Robin,Erithacus rubecula,L939855,Alexandra Park (London),2017-09-22 13:23,51.5933888,-0.1266003,TRUE,FALSE,FALSE,S39340988,NA,4,2017-09-22
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-09-23 18:40,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S39348524,NA,3,2017-09-23
+eurrob1,European Robin,Erithacus rubecula,L1006681,Richmond Park (London),2017-09-24 13:27,51.4471069,-0.2717829,TRUE,FALSE,FALSE,S39380253,NA,7,2017-09-24
+eurrob1,European Robin,Erithacus rubecula,L3681809,Ingrebourne Valley LNR and Hornchurch Country Park,2017-09-25 18:37,51.5370528,0.2097703,TRUE,FALSE,FALSE,S39387161,NA,8,2017-09-25
+eurrob1,European Robin,Erithacus rubecula,L945563,"St James's Park (do not list Barnacle Goose, Shelduck and other captive birds)",2017-09-26 17:49,51.5031329,-0.1338959,TRUE,FALSE,FALSE,S39404437,NA,1,2017-09-26
+eurrob1,European Robin,Erithacus rubecula,L14523054,Twickenham Embankment,2017-09-27 15:50,51.4457359,-0.3270518,TRUE,FALSE,FALSE,S39434890,NA,1,2017-09-27
+eurrob1,European Robin,Erithacus rubecula,L3902986,Rainham Landfill (restricted access),2017-09-28 09:50,51.4935685,0.1954794,TRUE,FALSE,FALSE,S39460524,NA,3,2017-09-28
+eurrob1,European Robin,Erithacus rubecula,L945563,"St James's Park (do not list Barnacle Goose, Shelduck and other captive birds)",2017-09-29 13:00,51.5031329,-0.1338959,TRUE,FALSE,FALSE,S39456928,NA,NA,2017-09-29
+eurrob1,European Robin,Erithacus rubecula,L939855,Alexandra Park (London),2017-09-30 12:47,51.5933888,-0.1266003,TRUE,FALSE,FALSE,S39490384,NA,2,2017-09-30
+eurrob1,European Robin,Erithacus rubecula,L5602068,GB-England-London-68 Vincent Square - 51.4936x-0.1366,2017-10-01 15:08,51.493629,-0.136569,TRUE,FALSE,TRUE,S39510266,NA,1,2017-10-01
+eurrob1,European Robin,Erithacus rubecula,L1107441,Hampton Court Palace,2017-10-02 17:02,51.4038802,-0.3384647,TRUE,FALSE,FALSE,S40883142,NA,3,2017-10-02
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-10-03 17:34,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S39534520,NA,8,2017-10-03
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-10-04 15:22,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S39560268,NA,2,2017-10-04
+eurrob1,European Robin,Erithacus rubecula,L6324299,"Paddington Cemetary, London",2017-10-05 16:30,51.5391553,-0.2052212,TRUE,FALSE,TRUE,S39565262,NA,1,2017-10-05
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2017-10-06 11:14,51.594753,-0.140426,TRUE,FALSE,TRUE,S39981499,NA,1,2017-10-06
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-10-07 10:20,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S41852276,NA,1,2017-10-07
+eurrob1,European Robin,Erithacus rubecula,L1800098,Battersea Park,2017-10-08 15:42,51.4802877,-0.1552555,TRUE,FALSE,FALSE,S39619402,NA,7,2017-10-08
+eurrob1,European Robin,Erithacus rubecula,L1066696,Greenwich Park,2017-10-09 10:36,51.4774807,-0.0006008,TRUE,FALSE,FALSE,S39803034,NA,5,2017-10-09
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-10-10 16:50,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S39808888,NA,6,2017-10-10
+eurrob1,European Robin,Erithacus rubecula,L3355039,Victoria Tower Gardens,2017-10-11 11:00,51.4970418,-0.124712,TRUE,FALSE,FALSE,S39822951,NA,1,2017-10-11
+eurrob1,European Robin,Erithacus rubecula,L9812632,West Norwood Cemetery and Crematorium,2017-10-12 10:30,51.4337133,-0.1024968,TRUE,FALSE,FALSE,S76382890,NA,2,2017-10-12
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-10-13 17:00,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S39904412,NA,2,2017-10-13
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-10-14 15:00,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S42297339,NA,1,2017-10-14
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-10-15 13:40,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S40142927,NA,1,2017-10-15
+eurrob1,European Robin,Erithacus rubecula,L939896,WWT London Wetland Centre (from 2000),2017-10-16 11:30,51.4774486,-0.235101,TRUE,FALSE,FALSE,S39957268,NA,1,2017-10-16
+eurrob1,European Robin,Erithacus rubecula,L1122086,Regent's Park (please do not list exotic waterfowl),2017-10-17 14:45,51.5316,-0.1559,TRUE,FALSE,FALSE,S39972750,NA,1,2017-10-17
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-10-18 17:00,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S40087484,NA,2,2017-10-18
+eurrob1,European Robin,Erithacus rubecula,L5227298,Ruislip Lido,2017-10-20 12:50,51.5906053,-0.4302478,TRUE,FALSE,FALSE,S40031061,NA,6,2017-10-20
+eurrob1,European Robin,Erithacus rubecula,L2370965,Queen's Wood LNR,2017-10-21 15:40,51.5816966,-0.1422215,TRUE,FALSE,FALSE,S40098142,NA,1,2017-10-21
+eurrob1,European Robin,Erithacus rubecula,L1344841,Brent Reservoir,2017-10-22 09:55,51.5705173,-0.2462203,TRUE,FALSE,FALSE,S40078973,NA,NA,2017-10-22
+eurrob1,European Robin,Erithacus rubecula,L3902986,Rainham Landfill (restricted access),2017-10-23 08:58,51.4935685,0.1954794,TRUE,FALSE,FALSE,S40098119,NA,2,2017-10-23
+eurrob1,European Robin,Erithacus rubecula,L939855,Alexandra Park (London),2017-10-24 17:12,51.5933888,-0.1266003,TRUE,FALSE,FALSE,S40111705,NA,4,2017-10-24
+eurrob1,European Robin,Erithacus rubecula,L1000253,"Rainham Marshes RSPB Reserve, SSSI and LNR (includes Stone Barges and riverside walk)",2017-10-25 09:45,51.4966805,0.2115243,TRUE,FALSE,FALSE,S127337954,NA,1,2017-10-25
+eurrob1,European Robin,Erithacus rubecula,L2083779,Walthamstow Wetlands,2017-10-26 12:14,51.5856349,-0.0539798,TRUE,FALSE,FALSE,S40130875,NA,1,2017-10-26
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2017-10-27 07:50,51.594753,-0.140426,TRUE,FALSE,TRUE,S40143504,NA,1,2017-10-27
+eurrob1,European Robin,Erithacus rubecula,L939896,WWT London Wetland Centre (from 2000),2017-10-28 14:20,51.4774486,-0.235101,TRUE,FALSE,FALSE,S40193626,NA,NA,2017-10-28
+eurrob1,European Robin,Erithacus rubecula,L4509924,Muswell Hill--Pembroke Mews,2017-10-29 11:58,51.602614,-0.145284,TRUE,FALSE,TRUE,S40218568,NA,1,2017-10-29
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-10-30 11:25,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S68059139,NA,1,2017-10-30
+eurrob1,European Robin,Erithacus rubecula,L8895020,Brockwell Park,2017-10-31 15:55,51.4507442,-0.1065159,TRUE,FALSE,FALSE,S75613101,NA,1,2017-10-31
+eurrob1,European Robin,Erithacus rubecula,L5100430,"National Archives, Kew",2017-11-01 15:20,51.4810588,-0.2815542,TRUE,FALSE,TRUE,S40246135,NA,1,2017-11-01
+eurrob1,European Robin,Erithacus rubecula,L39382810,Christchurch Gardens,2017-11-02 12:25,51.498034,-0.134478,TRUE,FALSE,FALSE,S40261908,NA,1,2017-11-02
+eurrob1,European Robin,Erithacus rubecula,L1000253,"Rainham Marshes RSPB Reserve, SSSI and LNR (includes Stone Barges and riverside walk)",2017-11-03 14:10,51.4966805,0.2115243,TRUE,FALSE,FALSE,S40379326,NA,1,2017-11-03
+eurrob1,European Robin,Erithacus rubecula,L3947300,Victoria Embankment Gardens,2017-11-04 13:45,51.5091363,-0.1205502,TRUE,FALSE,FALSE,S40295327,NA,2,2017-11-04
+eurrob1,European Robin,Erithacus rubecula,L3444730,Queen Elizabeth Olympic Park,2017-11-05 15:04,51.5442266,-0.0162435,TRUE,FALSE,FALSE,S40320712,NA,4,2017-11-05
+eurrob1,European Robin,Erithacus rubecula,L956644,Kew Royal Botanic Gardens,2017-11-06 14:26,51.4787636,-0.2956009,TRUE,FALSE,FALSE,S40342006,NA,3,2017-11-06
+eurrob1,European Robin,Erithacus rubecula,L5803024,Wanstead Flats,2017-11-07,51.5590742,0.0319934,TRUE,FALSE,FALSE,S61667385,NA,NA,2017-11-07
+eurrob1,European Robin,Erithacus rubecula,L956644,Kew Royal Botanic Gardens,2017-11-08 14:23,51.4787636,-0.2956009,TRUE,FALSE,FALSE,S40378484,NA,4,2017-11-08
+eurrob1,European Robin,Erithacus rubecula,L956644,Kew Royal Botanic Gardens,2017-11-09 14:30,51.4787636,-0.2956009,TRUE,FALSE,FALSE,S40394007,NA,2,2017-11-09
+eurrob1,European Robin,Erithacus rubecula,L12106788,Hyde Park  and  Kensington Gardens,2017-11-10 16:00,51.5073169,-0.1706133,TRUE,FALSE,FALSE,S40548870,NA,4,2017-11-10
+eurrob1,European Robin,Erithacus rubecula,L3797797,Greenwich Peninsula,2017-11-11 12:20,51.4979956,0.0055361,TRUE,FALSE,FALSE,S40497556,NA,1,2017-11-11
+eurrob1,European Robin,Erithacus rubecula,L939855,Alexandra Park (London),2017-11-12 12:45,51.5933888,-0.1266003,TRUE,FALSE,FALSE,S40487133,NA,1,2017-11-12
+eurrob1,European Robin,Erithacus rubecula,L2755785,Nunhead Cemetery LNR,2017-11-13 09:10,51.4627653,-0.0512409,TRUE,FALSE,FALSE,S40497540,NA,9,2017-11-13
+eurrob1,European Robin,Erithacus rubecula,L6766535,Hollow Pond,2017-11-14 14:00,51.5798089,0.0087976,TRUE,FALSE,FALSE,S40509009,NA,2,2017-11-14
+eurrob1,European Robin,Erithacus rubecula,L4860073,Heathers Place - Willesden Green NW10 London,2017-11-15 11:00,51.5444668,-0.2326334,TRUE,FALSE,TRUE,S40516146,NA,1,2017-11-15
+eurrob1,European Robin,Erithacus rubecula,L6485761,"Cambridge Grove, London, England, GB (51.496, -0.231)",2017-11-16 08:00,51.4961175,-0.230718,TRUE,FALSE,TRUE,S40588595,NA,1,2017-11-16
+eurrob1,European Robin,Erithacus rubecula,L1122086,Regent's Park (please do not list exotic waterfowl),2017-11-17 14:15,51.5316,-0.1559,TRUE,FALSE,FALSE,S40552464,NA,5,2017-11-17
+eurrob1,European Robin,Erithacus rubecula,L4216594,Bayhurst Wood Country Park,2017-11-18 11:10,51.5899228,-0.4588509,TRUE,FALSE,FALSE,S40570307,NA,3,2017-11-18
+eurrob1,European Robin,Erithacus rubecula,L8895020,Brockwell Park,2017-11-19 13:30,51.4507442,-0.1065159,TRUE,FALSE,FALSE,S75617197,NA,1,2017-11-19
+eurrob1,European Robin,Erithacus rubecula,L4148152,South Norwood Country Park and LNR,2017-11-20 10:30,51.3980845,-0.0552666,TRUE,FALSE,FALSE,S40620296,NA,NA,2017-11-20
+eurrob1,European Robin,Erithacus rubecula,L4148152,South Norwood Country Park and LNR,2017-11-21 09:15,51.3980845,-0.0552666,TRUE,FALSE,FALSE,S40637267,NA,NA,2017-11-21
+eurrob1,European Robin,Erithacus rubecula,L958247,Walthamstow Wetlands--Lockwood and Maynard Reservoirs,2017-11-22 12:31,51.5922584,-0.0469923,TRUE,FALSE,FALSE,S40657589,NA,4,2017-11-22
+eurrob1,European Robin,Erithacus rubecula,L6499704,"13–21 The South Border, Purley GB-Angleterre (51,3392,-0,1382)",2017-11-23 13:14,51.339237,-0.138157,TRUE,FALSE,TRUE,S40679683,NA,7,2017-11-23
+eurrob1,European Robin,Erithacus rubecula,L3902986,Rainham Landfill (restricted access),2017-11-24 13:40,51.4935685,0.1954794,TRUE,FALSE,FALSE,S40784366,NA,1,2017-11-24
+eurrob1,European Robin,Erithacus rubecula,L6509662,"Belhus Country Park, Aveley, England, GB (51.52, 0.254)",2017-11-25 13:21,51.5204775,0.2539781,TRUE,FALSE,TRUE,S40738980,NA,1,2017-11-25
+eurrob1,European Robin,Erithacus rubecula,L1236726,Walthamstow Marshes SSSI,2017-11-26 13:27,51.5693585,-0.0509191,TRUE,FALSE,FALSE,S40741838,NA,1,2017-11-26
+eurrob1,European Robin,Erithacus rubecula,L6489909,London Roundwood Park,2017-11-27 11:30,51.5411038,-0.2379227,TRUE,FALSE,TRUE,S40768597,NA,1,2017-11-27
+eurrob1,European Robin,Erithacus rubecula,L939896,WWT London Wetland Centre (from 2000),2017-11-28 11:30,51.4774486,-0.235101,TRUE,FALSE,FALSE,S40786637,NA,6,2017-11-28
+eurrob1,European Robin,Erithacus rubecula,L6482779,Ruislip Woods NNR--Mad Bess Wood,2017-11-29 11:00,51.592732,-0.4469419,TRUE,FALSE,FALSE,S40803573,NA,1,2017-11-29
+eurrob1,European Robin,Erithacus rubecula,L6524649,"21 Stacey Street, London GB-England (51.5144,-0.1285)",2017-11-30 15:35,51.514434,-0.128484,TRUE,FALSE,TRUE,S40844886,NA,1,2017-11-30
+eurrob1,European Robin,Erithacus rubecula,L1402306,Leyton Flats,2017-12-01 09:56,51.5787073,0.0158131,TRUE,FALSE,FALSE,S40838058,NA,NA,2017-12-01
+eurrob1,European Robin,Erithacus rubecula,L1122086,Regent's Park (please do not list exotic waterfowl),2017-12-02 10:32,51.5316,-0.1559,TRUE,FALSE,FALSE,S40858652,NA,5,2017-12-02
+eurrob1,European Robin,Erithacus rubecula,L6443310,Carshalton and Beddington Parks ,2017-12-03 14:21,51.367565,-0.158956,TRUE,FALSE,TRUE,S40880710,NA,10,2017-12-03
+eurrob1,European Robin,Erithacus rubecula,L6533702,Kennington Park,2017-12-04 13:50,51.4823791,-0.1088752,TRUE,FALSE,TRUE,S40903951,NA,3,2017-12-04
+eurrob1,European Robin,Erithacus rubecula,L956644,Kew Royal Botanic Gardens,2017-12-05 14:30,51.4787636,-0.2956009,TRUE,FALSE,FALSE,S40923903,NA,3,2017-12-05
+eurrob1,European Robin,Erithacus rubecula,L6538548,"Haggerston Park, London GB-England (51.5326,-0.0666)",2017-12-06 12:45,51.532564,-0.066607,TRUE,FALSE,TRUE,S40939458,NA,1,2017-12-06
+eurrob1,European Robin,Erithacus rubecula,L939855,Alexandra Park (London),2017-12-07 08:03,51.5933888,-0.1266003,TRUE,FALSE,FALSE,S40956801,NA,8,2017-12-07
+eurrob1,European Robin,Erithacus rubecula,L1000253,"Rainham Marshes RSPB Reserve, SSSI and LNR (includes Stone Barges and riverside walk)",2017-12-08 11:00,51.4966805,0.2115243,TRUE,FALSE,FALSE,S41012953,NA,NA,2017-12-08
+eurrob1,European Robin,Erithacus rubecula,L5130552,London WWT,2017-12-09 13:30,51.4776411,-0.2323437,TRUE,FALSE,TRUE,S41062039,NA,3,2017-12-09
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2017-12-10 10:58,51.595709,-0.1394567,TRUE,FALSE,TRUE,S41007232,NA,1,2017-12-10
+eurrob1,European Robin,Erithacus rubecula,L939890,Cranford Park,2017-12-12 14:35,51.4879105,-0.4166619,TRUE,FALSE,FALSE,S41068527,NA,1,2017-12-12
+eurrob1,European Robin,Erithacus rubecula,L6283252,Wood Green--Cumberland Road,2017-12-13 09:30,51.597234,-0.112739,TRUE,FALSE,TRUE,S41066236,NA,1,2017-12-13
+eurrob1,European Robin,Erithacus rubecula,L6562737,"50 Queen's Gate, London, England, GB (51.497, -0.179)",2017-12-14 14:24,51.4966494,-0.1792099,TRUE,FALSE,TRUE,S41084792,NA,1,2017-12-14
+eurrob1,European Robin,Erithacus rubecula,L939896,WWT London Wetland Centre (from 2000),2017-12-15 12:10,51.4774486,-0.235101,TRUE,FALSE,FALSE,S41346213,NA,3,2017-12-15
+eurrob1,European Robin,Erithacus rubecula,L1006681,Richmond Park (London),2017-12-16 12:05,51.4471069,-0.2717829,TRUE,FALSE,FALSE,S41120116,NA,1,2017-12-16
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2017-12-17 09:08,51.595709,-0.1394567,TRUE,FALSE,TRUE,S41159999,NA,1,2017-12-17
+eurrob1,European Robin,Erithacus rubecula,L6583548,"Queen's Park, London",2017-12-18 15:30,51.535832,-0.2108712,TRUE,FALSE,TRUE,S41193897,NA,1,2017-12-18
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2017-12-19 12:29,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S41194439,NA,8,2017-12-19
+eurrob1,European Robin,Erithacus rubecula,L1006681,Richmond Park (London),2017-12-20 11:39,51.4471069,-0.2717829,TRUE,FALSE,FALSE,S41214462,NA,9,2017-12-20
+eurrob1,European Robin,Erithacus rubecula,L4260073,Millennium Bridge,2017-12-21 13:21,51.5098883,-0.0985658,TRUE,FALSE,FALSE,S41227198,NA,NA,2017-12-21
+eurrob1,European Robin,Erithacus rubecula,L3355039,Victoria Tower Gardens,2017-12-22 12:40,51.4970418,-0.124712,TRUE,FALSE,FALSE,S41245470,NA,1,2017-12-22
+eurrob1,European Robin,Erithacus rubecula,L6596846,"106 Home Park Road, London, England, GB (51.436, -0.204)",2017-12-23 13:31,51.435874,-0.2036998,TRUE,FALSE,TRUE,S41263451,NA,1,2017-12-23
+eurrob1,European Robin,Erithacus rubecula,L6603345,Courtfield Gardens,2017-12-24 15:30,51.4935512,-0.1870653,TRUE,FALSE,TRUE,S41294623,NA,1,2017-12-24
+eurrob1,European Robin,Erithacus rubecula,L6627320,St Mary’s Church Garden,2017-12-25 15:26,51.53829,-0.101308,TRUE,FALSE,TRUE,S41460860,NA,2,2017-12-25
+eurrob1,European Robin,Erithacus rubecula,L6608504,"90 Winsford Road, London, England, GB (51.433, -0.03)",2017-12-26 14:00,51.4334393,-0.0299459,TRUE,FALSE,TRUE,S41321077,NA,14,2017-12-26
+eurrob1,European Robin,Erithacus rubecula,L6612822,"(51.467, -0.294)",2017-12-27 15:55,51.4670327,-0.2939017,TRUE,FALSE,TRUE,S41343379,NA,1,2017-12-27
+eurrob1,European Robin,Erithacus rubecula,L1000253,"Rainham Marshes RSPB Reserve, SSSI and LNR (includes Stone Barges and riverside walk)",2017-12-28 14:55,51.4966805,0.2115243,TRUE,FALSE,FALSE,S41374909,NA,1,2017-12-28
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2017-12-29 15:48,51.595709,-0.1394567,TRUE,FALSE,TRUE,S41413304,NA,1,2017-12-29
+eurrob1,European Robin,Erithacus rubecula,L6642766,Thornhill Square,2017-12-30 16:00,51.5403245,-0.1151676,TRUE,FALSE,TRUE,S41490860,NA,1,2017-12-30
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2017-12-31 14:13,51.595709,-0.1394567,TRUE,FALSE,TRUE,S41468462,NA,1,2017-12-31

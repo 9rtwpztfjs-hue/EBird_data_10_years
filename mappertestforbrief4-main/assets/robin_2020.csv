@@ -1,0 +1,367 @@
+speciesCode,comName,sciName,locId,locName,obsDt,howMany,lat,lng,obsValid,obsReviewed,locationPrivate,subId,exoticCategory,date_requested
+eurrob1,European Robin,Erithacus rubecula,L8308224,Morden Hall Park,2020-01-01 15:54,2,51.4054514,-0.1906662,TRUE,FALSE,TRUE,S62850027,NA,2020-01-01
+eurrob1,European Robin,Erithacus rubecula,L939855,Alexandra Park (London),2020-01-02 15:28,2,51.5933888,-0.1266003,TRUE,FALSE,FALSE,S63140265,NA,2020-01-02
+eurrob1,European Robin,Erithacus rubecula,L9128669,Emirates Stadium,2020-01-03 16:26,1,51.5553706,-0.1085671,TRUE,FALSE,FALSE,S62956256,NA,2020-01-03
+eurrob1,European Robin,Erithacus rubecula,L8986546,"Priory Park, London GB",2020-01-04 16:08,5,51.58511,-0.124789,TRUE,FALSE,TRUE,S62998111,NA,2020-01-04
+eurrob1,European Robin,Erithacus rubecula,L9126499,"4 Cameron Road, Bromley GB-England (51.3960,0.0140)",2020-01-05 23:35,4,51.395971,0.01403,TRUE,FALSE,TRUE,S63334415,NA,2020-01-05
+eurrob1,European Robin,Erithacus rubecula,L8919394,Brunswick Square Gardens,2020-01-06 18:47,1,51.5244248,-0.1217194,TRUE,FALSE,FALSE,S63099125,NA,2020-01-06
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2020-01-07 16:23,2,51.594753,-0.140426,TRUE,FALSE,TRUE,S63133086,NA,2020-01-07
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2020-01-08 16:23,3,51.594753,-0.140426,TRUE,FALSE,TRUE,S63216167,NA,2020-01-08
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2020-01-09 16:13,3,51.594753,-0.140426,TRUE,FALSE,TRUE,S63216149,NA,2020-01-09
+eurrob1,European Robin,Erithacus rubecula,L10436944,Homewood Close🦉🦆🦢,2020-01-10 15:39,1,51.425735,-0.380429,TRUE,FALSE,TRUE,S63234267,NA,2020-01-10
+eurrob1,European Robin,Erithacus rubecula,L2575016,Tooting Common,2020-01-11 22:24,1,51.4334106,-0.1450324,TRUE,FALSE,FALSE,S63288114,NA,2020-01-11
+eurrob1,European Robin,Erithacus rubecula,L10436944,Homewood Close🦉🦆🦢,2020-01-12 15:54,1,51.425735,-0.380429,TRUE,FALSE,TRUE,S63312711,NA,2020-01-12
+eurrob1,European Robin,Erithacus rubecula,L10436944,Homewood Close🦉🦆🦢,2020-01-13 15:45,1,51.425735,-0.380429,TRUE,FALSE,TRUE,S63354106,NA,2020-01-13
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2020-01-14 16:16,2,51.594753,-0.140426,TRUE,FALSE,TRUE,S63402273,NA,2020-01-14
+eurrob1,European Robin,Erithacus rubecula,L8986546,"Priory Park, London GB",2020-01-15 16:55,1,51.58511,-0.124789,TRUE,FALSE,TRUE,S63418777,NA,2020-01-15
+eurrob1,European Robin,Erithacus rubecula,L10436944,Homewood Close🦉🦆🦢,2020-01-16 15:43,1,51.425735,-0.380429,TRUE,FALSE,TRUE,S63447512,NA,2020-01-16
+eurrob1,European Robin,Erithacus rubecula,L1349703,Hackney Marsh,2020-01-17 16:00,1,51.5578303,-0.0306505,TRUE,FALSE,FALSE,S63481031,NA,2020-01-17
+eurrob1,European Robin,Erithacus rubecula,L4509924,Muswell Hill--Pembroke Mews,2020-01-18 15:57,2,51.602614,-0.145284,TRUE,FALSE,TRUE,S63517955,NA,2020-01-18
+eurrob1,European Robin,Erithacus rubecula,L5052637,Bounds Green,2020-01-19 17:10,1,51.606836,-0.124281,TRUE,FALSE,TRUE,S63551575,NA,2020-01-19
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2020-01-20 16:45,1,51.595709,-0.1394567,TRUE,FALSE,TRUE,S63592043,NA,2020-01-20
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2020-01-21 16:20,2,51.594753,-0.140426,TRUE,FALSE,TRUE,S63643676,NA,2020-01-21
+eurrob1,European Robin,Erithacus rubecula,L1122086,Regent's Park (please do not list exotic waterfowl),2020-01-22 16:30,4,51.5316,-0.1559,TRUE,FALSE,FALSE,S63666946,NA,2020-01-22
+eurrob1,European Robin,Erithacus rubecula,L10436944,Homewood Close🦉🦆🦢,2020-01-23 15:42,1,51.425735,-0.380429,TRUE,FALSE,TRUE,S63696883,NA,2020-01-23
+eurrob1,European Robin,Erithacus rubecula,L10436944,Homewood Close🦉🦆🦢,2020-01-24 15:48,2,51.425735,-0.380429,TRUE,FALSE,TRUE,S63728113,NA,2020-01-24
+eurrob1,European Robin,Erithacus rubecula,L6777081,Gillespie Park LNR,2020-01-25 16:37,2,51.5596612,-0.1054688,TRUE,FALSE,FALSE,S63761137,NA,2020-01-25
+eurrob1,European Robin,Erithacus rubecula,L4148152,South Norwood Country Park and LNR,2020-01-26 16:00,3,51.3980845,-0.0552666,TRUE,FALSE,FALSE,S63800014,NA,2020-01-26
+eurrob1,European Robin,Erithacus rubecula,L5052637,Bounds Green,2020-01-27 18:00,1,51.606836,-0.124281,TRUE,FALSE,TRUE,S63846614,NA,2020-01-27
+eurrob1,European Robin,Erithacus rubecula,L10187456,Valentines Park,2020-01-28 14:38,3,51.5700814,0.0710678,TRUE,FALSE,FALSE,S63889233,NA,2020-01-28
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2020-01-29 16:52,3,51.594753,-0.140426,TRUE,FALSE,TRUE,S63919146,NA,2020-01-29
+eurrob1,European Robin,Erithacus rubecula,L9883056,Royal Northern Gardens,2020-01-30 17:59,1,51.5611811,-0.1214581,TRUE,FALSE,TRUE,S63938238,NA,2020-01-30
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2020-01-31 16:41,1,51.595709,-0.1394567,TRUE,FALSE,TRUE,S63975477,NA,2020-01-31
+eurrob1,European Robin,Erithacus rubecula,L10436944,Homewood Close🦉🦆🦢,2020-02-01 16:43,1,51.425735,-0.380429,TRUE,FALSE,TRUE,S64003701,NA,2020-02-01
+eurrob1,European Robin,Erithacus rubecula,L9883056,Royal Northern Gardens,2020-02-02 16:30,1,51.5611811,-0.1214581,TRUE,FALSE,TRUE,S64046393,NA,2020-02-02
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2020-02-03 16:50,1,51.595709,-0.1394567,TRUE,FALSE,TRUE,S64105520,NA,2020-02-03
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2020-02-04 17:04,2,51.594753,-0.140426,TRUE,FALSE,TRUE,S64141711,NA,2020-02-04
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2020-02-05 16:55,1,51.595709,-0.1394567,TRUE,FALSE,TRUE,S64155288,NA,2020-02-05
+eurrob1,European Robin,Erithacus rubecula,L10436944,Homewood Close🦉🦆🦢,2020-02-06 15:53,1,51.425735,-0.380429,TRUE,FALSE,TRUE,S64177050,NA,2020-02-06
+eurrob1,European Robin,Erithacus rubecula,L939896,WWT London Wetland Centre (from 2000),2020-02-07 18:36,NA,51.4774486,-0.235101,TRUE,FALSE,FALSE,S64208836,NA,2020-02-07
+eurrob1,European Robin,Erithacus rubecula,L945563,"St James's Park (do not list Barnacle Goose, Shelduck and other captive birds)",2020-02-08 17:35,1,51.5031329,-0.1338959,TRUE,FALSE,FALSE,S64238474,NA,2020-02-08
+eurrob1,European Robin,Erithacus rubecula,L939855,Alexandra Park (London),2020-02-09 16:43,2,51.5933888,-0.1266003,TRUE,FALSE,FALSE,S64280021,NA,2020-02-09
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2020-02-10 17:01,5,51.594753,-0.140426,TRUE,FALSE,TRUE,S64322943,NA,2020-02-10
+eurrob1,European Robin,Erithacus rubecula,L10436944,Homewood Close🦉🦆🦢,2020-02-11 16:24,1,51.425735,-0.380429,TRUE,FALSE,TRUE,S64411175,NA,2020-02-11
+eurrob1,European Robin,Erithacus rubecula,L939855,Alexandra Park (London),2020-02-12 16:58,2,51.5933888,-0.1266003,TRUE,FALSE,FALSE,S64398237,NA,2020-02-12
+eurrob1,European Robin,Erithacus rubecula,L8055104,Regent's Canal at Kings Cross,2020-02-13 17:00,1,51.535189,-0.119392,TRUE,FALSE,FALSE,S64420261,NA,2020-02-13
+eurrob1,European Robin,Erithacus rubecula,L8364196,"Aubrey Road, London GB-England (51.5807,-0.1195)",2020-02-14 17:10,3,51.580689,-0.119538,TRUE,FALSE,TRUE,S64458552,NA,2020-02-14
+eurrob1,European Robin,Erithacus rubecula,L10401120,"Finsbury Circus, England, GB (51.518, -0.085)",2020-02-15 14:19,1,51.5175925,-0.0848986,TRUE,FALSE,TRUE,S64498890,NA,2020-02-15
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2020-02-16 17:33,1,51.595709,-0.1394567,TRUE,FALSE,TRUE,S64582381,NA,2020-02-16
+eurrob1,European Robin,Erithacus rubecula,L10790632,"Georgetown House, Retreat Road, Richmond GB-England 51.45983, -0.30787",2020-02-17 15:04,3,51.45983,-0.30787,TRUE,FALSE,TRUE,S64644198,NA,2020-02-17
+eurrob1,European Robin,Erithacus rubecula,L939896,WWT London Wetland Centre (from 2000),2020-02-18 18:10,NA,51.4774486,-0.235101,TRUE,FALSE,FALSE,S64715136,NA,2020-02-18
+eurrob1,European Robin,Erithacus rubecula,L10401120,"Finsbury Circus, England, GB (51.518, -0.085)",2020-02-19 14:39,1,51.5175925,-0.0848986,TRUE,FALSE,TRUE,S64745272,NA,2020-02-19
+eurrob1,European Robin,Erithacus rubecula,L5802620,Home,2020-02-20 14:50,1,51.5459164,-0.0615681,TRUE,FALSE,TRUE,S64782118,NA,2020-02-20
+eurrob1,European Robin,Erithacus rubecula,L6187961,Thames Barrier and Park,2020-02-21 16:29,2,51.4997055,0.0358772,TRUE,FALSE,FALSE,S64892309,NA,2020-02-21
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2020-02-22 15:52,1,51.595709,-0.1394567,TRUE,FALSE,TRUE,S64889901,NA,2020-02-22
+eurrob1,European Robin,Erithacus rubecula,L2575016,Tooting Common,2020-02-23 18:00,2,51.4334106,-0.1450324,TRUE,FALSE,FALSE,S64912376,NA,2020-02-23
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2020-02-24 16:27,1,51.595709,-0.1394567,TRUE,FALSE,TRUE,S65034737,NA,2020-02-24
+eurrob1,European Robin,Erithacus rubecula,L10849489,"49 Blackfriars Road, London GB-England 51.50508, -0.10492",2020-02-25 18:24,1,51.505075,-0.104923,TRUE,FALSE,TRUE,S65223674,NA,2020-02-25
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2020-02-26 16:49,1,51.595709,-0.1394567,TRUE,FALSE,TRUE,S65146139,NA,2020-02-26
+eurrob1,European Robin,Erithacus rubecula,L2958232,Heathrow Airport,2020-02-27 17:20,1,51.4713861,-0.4568768,TRUE,FALSE,FALSE,S65211796,NA,2020-02-27
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2020-02-28 16:53,1,51.595709,-0.1394567,TRUE,FALSE,TRUE,S65249863,NA,2020-02-28
+eurrob1,European Robin,Erithacus rubecula,L10872028,Acton: Club des Sports,2020-02-29 15:58,1,51.5105475,-0.2540796,TRUE,FALSE,TRUE,S65273479,NA,2020-02-29
+eurrob1,European Robin,Erithacus rubecula,L1800098,Battersea Park,2020-03-01 16:45,1,51.4802877,-0.1552555,TRUE,FALSE,FALSE,S65325913,NA,2020-03-01
+eurrob1,European Robin,Erithacus rubecula,L6996882,High Broom Wood (WT),2020-03-02 17:22,6,51.383766,-0.0239306,TRUE,FALSE,FALSE,S65365914,NA,2020-03-02
+eurrob1,European Robin,Erithacus rubecula,L1066696,Greenwich Park,2020-03-03 16:35,6,51.4774807,-0.0006008,TRUE,FALSE,FALSE,S65424335,NA,2020-03-03
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2020-03-04 16:36,1,51.595709,-0.1394567,TRUE,FALSE,TRUE,S65438316,NA,2020-03-04
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2020-03-05 17:39,1,51.595709,-0.1394567,TRUE,FALSE,TRUE,S65465850,NA,2020-03-05
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2020-03-06 17:36,1,51.595709,-0.1394567,TRUE,FALSE,TRUE,S65492853,NA,2020-03-06
+eurrob1,European Robin,Erithacus rubecula,L2083779,Walthamstow Wetlands,2020-03-07 23:11,4,51.5856349,-0.0539798,TRUE,FALSE,FALSE,S65543580,NA,2020-03-07
+eurrob1,European Robin,Erithacus rubecula,L4026088,Crystal Palace Park,2020-03-08 17:21,1,51.4216077,-0.0699413,TRUE,FALSE,FALSE,S65575062,NA,2020-03-08
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2020-03-09 17:30,2,51.594753,-0.140426,TRUE,FALSE,TRUE,S65617788,NA,2020-03-09
+eurrob1,European Robin,Erithacus rubecula,L7043492,Chiswick Pier,2020-03-10 15:49,2,51.4822782,-0.2512532,TRUE,FALSE,FALSE,S65649067,NA,2020-03-10
+eurrob1,European Robin,Erithacus rubecula,L10401120,"Finsbury Circus, England, GB (51.518, -0.085)",2020-03-11 14:37,1,51.5175925,-0.0848986,TRUE,FALSE,TRUE,S65696621,NA,2020-03-11
+eurrob1,European Robin,Erithacus rubecula,L3670831,Hampstead Heath,2020-03-12 17:49,NA,51.5618116,-0.1633787,TRUE,FALSE,FALSE,S65715091,NA,2020-03-12
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-03-13 16:00,3,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S65766739,NA,2020-03-13
+eurrob1,European Robin,Erithacus rubecula,L12345901,"King George V Park, E16",2020-03-14 16:00,2,51.513075,0.0401726,TRUE,FALSE,TRUE,S73953575,NA,2020-03-14
+eurrob1,European Robin,Erithacus rubecula,L7493822,St Paul's Cathedral,2020-03-15 16:50,2,51.5138176,-0.0985491,TRUE,FALSE,FALSE,S65824606,NA,2020-03-15
+eurrob1,European Robin,Erithacus rubecula,L12345901,"King George V Park, E16",2020-03-16 15:00,2,51.513075,0.0401726,TRUE,FALSE,TRUE,S73954202,NA,2020-03-16
+eurrob1,European Robin,Erithacus rubecula,L1122086,Regent's Park (please do not list exotic waterfowl),2020-03-17 16:19,2,51.5316,-0.1559,TRUE,FALSE,FALSE,S65905194,NA,2020-03-17
+eurrob1,European Robin,Erithacus rubecula,L8055104,Regent's Canal at Kings Cross,2020-03-18 17:36,1,51.535189,-0.119392,TRUE,FALSE,FALSE,S65940808,NA,2020-03-18
+eurrob1,European Robin,Erithacus rubecula,L10697802,New Malden Station,2020-03-19 16:44,2,51.4043,-0.2543765,TRUE,FALSE,TRUE,S65974617,NA,2020-03-19
+eurrob1,European Robin,Erithacus rubecula,L5655042,Little Venice,2020-03-20 16:49,1,51.5211816,-0.1818967,TRUE,FALSE,FALSE,S66011404,NA,2020-03-20
+eurrob1,European Robin,Erithacus rubecula,L11000378,"Paddington Recreation Ground, London GB-England 51.52892, -0.19145",2020-03-21 15:48,1,51.528919,-0.19145,TRUE,FALSE,TRUE,S66041262,NA,2020-03-21
+eurrob1,European Robin,Erithacus rubecula,L8964900,362 Green Lanes,2020-03-22 16:40,1,51.5740702,-0.0975071,TRUE,FALSE,TRUE,S66091572,NA,2020-03-22
+eurrob1,European Robin,Erithacus rubecula,L8055104,Regent's Canal at Kings Cross,2020-03-23 15:54,1,51.535189,-0.119392,TRUE,FALSE,FALSE,S66129980,NA,2020-03-23
+eurrob1,European Robin,Erithacus rubecula,L4066691,Woodberry Wetlands LWT NR,2020-03-24 15:21,9,51.5713457,-0.0859165,TRUE,FALSE,FALSE,S66166508,NA,2020-03-24
+eurrob1,European Robin,Erithacus rubecula,L8964900,362 Green Lanes,2020-03-25 17:27,1,51.5740702,-0.0975071,TRUE,FALSE,TRUE,S66207084,NA,2020-03-25
+eurrob1,European Robin,Erithacus rubecula,L6777081,Gillespie Park LNR,2020-03-26 17:11,2,51.5596612,-0.1054688,TRUE,FALSE,FALSE,S66244738,NA,2020-03-26
+eurrob1,European Robin,Erithacus rubecula,L8964900,362 Green Lanes,2020-03-27 17:15,1,51.5740702,-0.0975071,TRUE,FALSE,TRUE,S66282863,NA,2020-03-27
+eurrob1,European Robin,Erithacus rubecula,L11033339,River Thames at Chiswick,2020-03-28 17:58,2,51.4877034,-0.2468742,TRUE,FALSE,TRUE,S66322791,NA,2020-03-28
+eurrob1,European Robin,Erithacus rubecula,L6802076,Finsbury Park (The Park only),2020-03-29 17:10,2,51.5710417,-0.1017952,TRUE,FALSE,FALSE,S66365186,NA,2020-03-29
+eurrob1,European Robin,Erithacus rubecula,L7151069,Garden - W4,2020-03-30 19:13,2,51.4905127,-0.2618607,TRUE,FALSE,TRUE,S66409387,NA,2020-03-30
+eurrob1,European Robin,Erithacus rubecula,L5266959,Chiswick House and Gardens,2020-03-31 18:07,20,51.4837882,-0.2586079,TRUE,FALSE,FALSE,S66446474,NA,2020-03-31
+eurrob1,European Robin,Erithacus rubecula,L10902121,Collingwood Road Recreation Ground,2020-04-01 18:44,1,51.368485,-0.2039337,TRUE,FALSE,TRUE,S66484000,NA,2020-04-01
+eurrob1,European Robin,Erithacus rubecula,L7151069,Garden - W4,2020-04-02 20:45,1,51.4905127,-0.2618607,TRUE,FALSE,TRUE,S66547845,NA,2020-04-02
+eurrob1,European Robin,Erithacus rubecula,L11077736,"Highbury Fields, London GB-England 51.54952, -0.10150",2020-04-03 23:05,1,51.549519,-0.101501,TRUE,FALSE,TRUE,S66588172,NA,2020-04-03
+eurrob1,European Robin,Erithacus rubecula,L1236726,Walthamstow Marshes SSSI,2020-04-04 18:25,1,51.5693585,-0.0509191,TRUE,FALSE,FALSE,S66644364,NA,2020-04-04
+eurrob1,European Robin,Erithacus rubecula,L7151069,Garden - W4,2020-04-05 20:45,1,51.4905127,-0.2618607,TRUE,FALSE,TRUE,S66731217,NA,2020-04-05
+eurrob1,European Robin,Erithacus rubecula,L11136025,The Bird In Hand,2020-04-06 19:33,2,51.4997268,-0.2154136,TRUE,FALSE,TRUE,S66732674,NA,2020-04-06
+eurrob1,European Robin,Erithacus rubecula,L11105727,"10 Hammersmith Terrace, London GB-England 51.48971, -0.24263",2020-04-07 18:42,2,51.489711,-0.242626,TRUE,FALSE,TRUE,S66782658,NA,2020-04-07
+eurrob1,European Robin,Erithacus rubecula,L10401120,"Finsbury Circus, England, GB (51.518, -0.085)",2020-04-08 18:16,1,51.5175925,-0.0848986,TRUE,FALSE,TRUE,S66829408,NA,2020-04-08
+eurrob1,European Robin,Erithacus rubecula,L3192980,Dagenham Chase LNR,2020-04-09 20:55,1,51.5506841,0.1837513,TRUE,FALSE,FALSE,S68558311,NA,2020-04-09
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-04-10 18:52,3,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S66929303,NA,2020-04-10
+eurrob1,European Robin,Erithacus rubecula,L4066691,Woodberry Wetlands LWT NR,2020-04-11 19:35,NA,51.5713457,-0.0859165,TRUE,FALSE,FALSE,S67042605,NA,2020-04-11
+eurrob1,European Robin,Erithacus rubecula,L7151069,Garden - W4,2020-04-12 20:05,1,51.4905127,-0.2618607,TRUE,FALSE,TRUE,S67120953,NA,2020-04-12
+eurrob1,European Robin,Erithacus rubecula,L1122086,Regent's Park (please do not list exotic waterfowl),2020-04-13 18:30,NA,51.5316,-0.1559,TRUE,FALSE,FALSE,S67191574,NA,2020-04-13
+eurrob1,European Robin,Erithacus rubecula,L4066691,Woodberry Wetlands LWT NR,2020-04-14 19:18,NA,51.5713457,-0.0859165,TRUE,FALSE,FALSE,S67191923,NA,2020-04-14
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2020-04-15 17:36,1,51.595709,-0.1394567,TRUE,FALSE,TRUE,S67280835,NA,2020-04-15
+eurrob1,European Robin,Erithacus rubecula,L10825116,Perretts Field,2020-04-16 19:10,10,51.3630458,-0.2135897,TRUE,FALSE,TRUE,S67318138,NA,2020-04-16
+eurrob1,European Robin,Erithacus rubecula,L10658966,[EDN] Edna Rd,2020-04-17 17:00,1,51.4087836,-0.2231646,TRUE,FALSE,TRUE,S67387181,NA,2020-04-17
+eurrob1,European Robin,Erithacus rubecula,L1122086,Regent's Park (please do not list exotic waterfowl),2020-04-18 17:39,7,51.5316,-0.1559,TRUE,FALSE,FALSE,S67416076,NA,2020-04-18
+eurrob1,European Robin,Erithacus rubecula,L4148152,South Norwood Country Park and LNR,2020-04-19 17:15,10,51.3980845,-0.0552666,TRUE,FALSE,FALSE,S67498942,NA,2020-04-19
+eurrob1,European Robin,Erithacus rubecula,L8964900,362 Green Lanes,2020-04-20 19:45,2,51.5740702,-0.0975071,TRUE,FALSE,TRUE,S67542676,NA,2020-04-20
+eurrob1,European Robin,Erithacus rubecula,L11018105,"43 Belgrave Road, England, GB (51.565, 0.022)",2020-04-21 21:30,NA,51.5651131,0.0219001,TRUE,FALSE,TRUE,S109550116,NA,2020-04-21
+eurrob1,European Robin,Erithacus rubecula,L1800098,Battersea Park,2020-04-22 19:40,2,51.4802877,-0.1552555,TRUE,FALSE,FALSE,S67678921,NA,2020-04-22
+eurrob1,European Robin,Erithacus rubecula,L10436944,Homewood Close🦉🦆🦢,2020-04-23 18:29,2,51.425735,-0.380429,TRUE,FALSE,TRUE,S67679172,NA,2020-04-23
+eurrob1,European Robin,Erithacus rubecula,L1800098,Battersea Park,2020-04-24 19:00,1,51.4802877,-0.1552555,TRUE,FALSE,FALSE,S67735722,NA,2020-04-24
+eurrob1,European Robin,Erithacus rubecula,L11204697,St Mary's Hornsey Church Tower,2020-04-25 18:00,3,51.5871111,-0.1153988,TRUE,FALSE,TRUE,S67854674,NA,2020-04-25
+eurrob1,European Robin,Erithacus rubecula,L1800098,Battersea Park,2020-04-26 19:45,7,51.4802877,-0.1552555,TRUE,FALSE,FALSE,S67859119,NA,2020-04-26
+eurrob1,European Robin,Erithacus rubecula,L8002152,Clissold Park,2020-04-27 19:11,3,51.5617764,-0.0886763,TRUE,FALSE,FALSE,S67908904,NA,2020-04-27
+eurrob1,European Robin,Erithacus rubecula,L11276082,Kingston upon Thames--Surbiton Crescent,2020-04-28 19:14,1,51.400778,-0.303802,TRUE,FALSE,TRUE,S67977841,NA,2020-04-28
+eurrob1,European Robin,Erithacus rubecula,L8046904,Waterworks NR,2020-04-29 19:21,6,51.5630927,-0.0370467,TRUE,FALSE,FALSE,S68056671,NA,2020-04-29
+eurrob1,European Robin,Erithacus rubecula,L10998709,Parkland Walk LNR,2020-04-30 19:07,2,51.5743,-0.124439,TRUE,FALSE,FALSE,S68143708,NA,2020-04-30
+eurrob1,European Robin,Erithacus rubecula,L1800098,Battersea Park,2020-05-01 18:30,6,51.4802877,-0.1552555,TRUE,FALSE,FALSE,S68208241,NA,2020-05-01
+eurrob1,European Robin,Erithacus rubecula,L7197368,Ponders End Lake,2020-05-02 19:05,1,51.635527,-0.03339,TRUE,FALSE,FALSE,S69000308,NA,2020-05-02
+eurrob1,European Robin,Erithacus rubecula,L11276082,Kingston upon Thames--Surbiton Crescent,2020-05-03 19:00,1,51.400778,-0.303802,TRUE,FALSE,TRUE,S68334990,NA,2020-05-03
+eurrob1,European Robin,Erithacus rubecula,L11313170,Claremont Gardens,2020-05-04 19:00,3,51.395424,-0.304487,TRUE,FALSE,FALSE,S68395436,NA,2020-05-04
+eurrob1,European Robin,Erithacus rubecula,L11013005,New River Walk--Green Lanes to Newnton Close,2020-05-05 19:28,2,51.57397,-0.092746,TRUE,FALSE,FALSE,S68458435,NA,2020-05-05
+eurrob1,European Robin,Erithacus rubecula,L5465777,Greenwich Peninsula Ecology Park,2020-05-06 19:15,2,51.4950031,0.0159806,TRUE,FALSE,FALSE,S68509113,NA,2020-05-06
+eurrob1,European Robin,Erithacus rubecula,L11276082,Kingston upon Thames--Surbiton Crescent,2020-05-07 20:07,1,51.400778,-0.303802,TRUE,FALSE,TRUE,S68559133,NA,2020-05-07
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2020-05-08 20:02,2,51.595709,-0.1394567,TRUE,FALSE,TRUE,S68628111,NA,2020-05-08
+eurrob1,European Robin,Erithacus rubecula,L11018912,"129 Queen Mary Road, England, GB (51.422, -0.104)",2020-05-09 20:40,2,51.4220914,-0.1038046,TRUE,FALSE,TRUE,S68716790,NA,2020-05-09
+eurrob1,European Robin,Erithacus rubecula,L11313170,Claremont Gardens,2020-05-10 16:44,1,51.395424,-0.304487,TRUE,FALSE,FALSE,S68800249,NA,2020-05-10
+eurrob1,European Robin,Erithacus rubecula,L11276082,Kingston upon Thames--Surbiton Crescent,2020-05-11 19:35,1,51.400778,-0.303802,TRUE,FALSE,TRUE,S68882230,NA,2020-05-11
+eurrob1,European Robin,Erithacus rubecula,L11276082,Kingston upon Thames--Surbiton Crescent,2020-05-12 19:28,1,51.400778,-0.303802,TRUE,FALSE,TRUE,S68935681,NA,2020-05-12
+eurrob1,European Robin,Erithacus rubecula,L5266959,Chiswick House and Gardens,2020-05-13 20:09,14,51.4837882,-0.2586079,TRUE,FALSE,FALSE,S68995763,NA,2020-05-13
+eurrob1,European Robin,Erithacus rubecula,L2575016,Tooting Common,2020-05-14 19:41,3,51.4334106,-0.1450324,TRUE,FALSE,FALSE,S69045040,NA,2020-05-14
+eurrob1,European Robin,Erithacus rubecula,L2370965,Queen's Wood LNR,2020-05-15 19:47,1,51.5816966,-0.1422215,TRUE,FALSE,FALSE,S69106983,NA,2020-05-15
+eurrob1,European Robin,Erithacus rubecula,L11463332,"Trinity Square, Seething Lane, England, GB (51.51, -0.079)",2020-05-16 18:07,1,51.51037,-0.0789536,TRUE,FALSE,TRUE,S69153569,NA,2020-05-16
+eurrob1,European Robin,Erithacus rubecula,L8371752,Celadine route Cowley,2020-05-17 17:10,5,51.5258128,-0.4701552,TRUE,FALSE,TRUE,S69220814,NA,2020-05-17
+eurrob1,European Robin,Erithacus rubecula,L11225072,"John Innes Park, London GB-England 51.40997, -0.20567",2020-05-18 20:12,3,51.409966,-0.20567,TRUE,FALSE,TRUE,S69278672,NA,2020-05-18
+eurrob1,European Robin,Erithacus rubecula,L11313170,Claremont Gardens,2020-05-19 19:16,3,51.395424,-0.304487,TRUE,FALSE,FALSE,S69332652,NA,2020-05-19
+eurrob1,European Robin,Erithacus rubecula,L11504293,Little Woodcote,2020-05-20 20:24,18,51.3387237,-0.1565787,TRUE,FALSE,FALSE,S69383054,NA,2020-05-20
+eurrob1,European Robin,Erithacus rubecula,L8877517,Darlands Lake NR,2020-05-21 18:56,1,51.6251138,-0.2044301,TRUE,FALSE,FALSE,S69425415,NA,2020-05-21
+eurrob1,European Robin,Erithacus rubecula,L11276082,Kingston upon Thames--Surbiton Crescent,2020-05-22 19:14,1,51.400778,-0.303802,TRUE,FALSE,TRUE,S69468207,NA,2020-05-22
+eurrob1,European Robin,Erithacus rubecula,L11527975,"36 Popes Lane, England, GB (51.499, -0.305)",2020-05-23 20:04,1,51.4987548,-0.3047226,TRUE,FALSE,TRUE,S69521448,NA,2020-05-23
+eurrob1,European Robin,Erithacus rubecula,L11539374,"Harefield, England, GB (51.592, -0.482)",2020-05-24 20:04,NA,51.5920962,-0.4820482,TRUE,FALSE,TRUE,S69582238,NA,2020-05-24
+eurrob1,European Robin,Erithacus rubecula,L7197368,Ponders End Lake,2020-05-25 19:05,3,51.635527,-0.03339,TRUE,FALSE,FALSE,S69630726,NA,2020-05-25
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-05-26 21:54,7,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S69681535,NA,2020-05-26
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-05-27 21:27,5,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S69726317,NA,2020-05-27
+eurrob1,European Robin,Erithacus rubecula,L945563,"St James's Park (do not list Barnacle Goose, Shelduck and other captive birds)",2020-05-28 20:06,1,51.5031329,-0.1338959,TRUE,FALSE,FALSE,S69761898,NA,2020-05-28
+eurrob1,European Robin,Erithacus rubecula,L11276082,Kingston upon Thames--Surbiton Crescent,2020-05-29 20:16,2,51.400778,-0.303802,TRUE,FALSE,TRUE,S69808416,NA,2020-05-29
+eurrob1,European Robin,Erithacus rubecula,L10401120,"Finsbury Circus, England, GB (51.518, -0.085)",2020-05-30 17:17,1,51.5175925,-0.0848986,TRUE,FALSE,TRUE,S69851387,NA,2020-05-30
+eurrob1,European Robin,Erithacus rubecula,L5400834,Lloyd Park (Croydon),2020-05-31 17:40,1,51.3664273,-0.0756758,TRUE,FALSE,FALSE,S69896653,NA,2020-05-31
+eurrob1,European Robin,Erithacus rubecula,L11313170,Claremont Gardens,2020-06-01 20:22,1,51.395424,-0.304487,TRUE,FALSE,FALSE,S69942816,NA,2020-06-01
+eurrob1,European Robin,Erithacus rubecula,L11313170,Claremont Gardens,2020-06-02 20:15,1,51.395424,-0.304487,TRUE,FALSE,FALSE,S69982139,NA,2020-06-02
+eurrob1,European Robin,Erithacus rubecula,L9556448,Oxleas Wood LNR,2020-06-03 22:34,1,51.4652213,0.0763893,TRUE,FALSE,FALSE,S70021845,NA,2020-06-03
+eurrob1,European Robin,Erithacus rubecula,L3670831,Hampstead Heath,2020-06-04 20:58,3,51.5618116,-0.1633787,TRUE,FALSE,FALSE,S70054643,NA,2020-06-04
+eurrob1,European Robin,Erithacus rubecula,L10409320,"Huron Road, Tooting",2020-06-05 17:20,2,51.43583,-0.15127,TRUE,FALSE,TRUE,S70082242,NA,2020-06-05
+eurrob1,European Robin,Erithacus rubecula,L11634693,"125 Woodmansterne Road, England, GB (51.347, -0.174)",2020-06-06 17:54,2,51.3471883,-0.1736815,TRUE,FALSE,TRUE,S70123254,NA,2020-06-06
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2020-06-07 18:06,1,51.595709,-0.1394567,TRUE,FALSE,TRUE,S70173890,NA,2020-06-07
+eurrob1,European Robin,Erithacus rubecula,L10409320,"Huron Road, Tooting",2020-06-08 20:00,2,51.43583,-0.15127,TRUE,FALSE,TRUE,S70234492,NA,2020-06-08
+eurrob1,European Robin,Erithacus rubecula,L11276082,Kingston upon Thames--Surbiton Crescent,2020-06-09 20:01,2,51.400778,-0.303802,TRUE,FALSE,TRUE,S70251234,NA,2020-06-09
+eurrob1,European Robin,Erithacus rubecula,L11276082,Kingston upon Thames--Surbiton Crescent,2020-06-10 20:03,1,51.400778,-0.303802,TRUE,FALSE,TRUE,S70284066,NA,2020-06-10
+eurrob1,European Robin,Erithacus rubecula,L3670831,Hampstead Heath,2020-06-11 18:55,1,51.5618116,-0.1633787,TRUE,FALSE,FALSE,S70324841,NA,2020-06-11
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2020-06-12 17:22,1,51.595709,-0.1394567,TRUE,FALSE,TRUE,S70359175,NA,2020-06-12
+eurrob1,European Robin,Erithacus rubecula,L11688591,"122 Keedonwood Road, England, GB (51.424, 0.007)",2020-06-13 17:05,1,51.4240782,0.0069235,TRUE,FALSE,TRUE,S70402531,NA,2020-06-13
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2020-06-14 16:53,2,51.595709,-0.1394567,TRUE,FALSE,TRUE,S70436997,NA,2020-06-14
+eurrob1,European Robin,Erithacus rubecula,L10409320,"Huron Road, Tooting",2020-06-15 17:30,4,51.43583,-0.15127,TRUE,FALSE,TRUE,S70470389,NA,2020-06-15
+eurrob1,European Robin,Erithacus rubecula,L3670831,Hampstead Heath,2020-06-16 20:30,NA,51.5618116,-0.1633787,TRUE,FALSE,FALSE,S70510221,NA,2020-06-16
+eurrob1,European Robin,Erithacus rubecula,L10658966,[EDN] Edna Rd,2020-06-17 16:00,1,51.4087836,-0.2231646,TRUE,FALSE,TRUE,S70557787,NA,2020-06-17
+eurrob1,European Robin,Erithacus rubecula,L1236726,Walthamstow Marshes SSSI,2020-06-18 18:56,NA,51.5693585,-0.0509191,TRUE,FALSE,FALSE,S70572894,NA,2020-06-18
+eurrob1,European Robin,Erithacus rubecula,L11546794,Beddington Park,2020-06-19 19:14,2,51.3724317,-0.1435977,TRUE,FALSE,FALSE,S70606862,NA,2020-06-19
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2020-06-20 17:55,1,51.594753,-0.140426,TRUE,FALSE,TRUE,S70635948,NA,2020-06-20
+eurrob1,European Robin,Erithacus rubecula,L11744987,"20 High Drive, England, GB (51.412, -0.27)",2020-06-21 21:30,1,51.4116845,-0.270328,TRUE,FALSE,TRUE,S70682300,NA,2020-06-21
+eurrob1,European Robin,Erithacus rubecula,L2083779,Walthamstow Wetlands,2020-06-22 16:52,1,51.5856349,-0.0539798,TRUE,FALSE,FALSE,S70719316,NA,2020-06-22
+eurrob1,European Robin,Erithacus rubecula,L9176485,River Thames at Barnes Bridge,2020-06-23 19:45,1,51.4725538,-0.2527191,TRUE,FALSE,TRUE,S70768221,NA,2020-06-23
+eurrob1,European Robin,Erithacus rubecula,L11744987,"20 High Drive, England, GB (51.412, -0.27)",2020-06-24 19:08,4,51.4116845,-0.270328,TRUE,FALSE,TRUE,S70782027,NA,2020-06-24
+eurrob1,European Robin,Erithacus rubecula,L11770570,"Hampshire House, Maple Way, Feltham GB-England 51.43990, -0.41142",2020-06-25 19:56,1,51.439903,-0.411421,TRUE,FALSE,TRUE,S70815826,NA,2020-06-25
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2020-06-26 18:14,1,51.595709,-0.1394567,TRUE,FALSE,TRUE,S70852961,NA,2020-06-26
+eurrob1,European Robin,Erithacus rubecula,L4828722,Wimbledon Common,2020-06-27 15:05,1,51.4358773,-0.2335668,TRUE,FALSE,FALSE,S70875831,NA,2020-06-27
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-06-28 18:48,1,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S70924000,NA,2020-06-28
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-06-29 15:15,4,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S76168519,NA,2020-06-29
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-06-30 16:05,1,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S74441844,NA,2020-06-30
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2020-07-01 18:35,1,51.594753,-0.140426,TRUE,FALSE,TRUE,S71031479,NA,2020-07-01
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-07-02 16:50,1,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S71055887,NA,2020-07-02
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-07-03 14:50,1,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S81979215,NA,2020-07-03
+eurrob1,European Robin,Erithacus rubecula,L10687680,Muswell Hill--N (general area),2020-07-04 18:05,1,51.600945,-0.147967,TRUE,FALSE,TRUE,S71146883,NA,2020-07-04
+eurrob1,European Robin,Erithacus rubecula,L4340884,Barnes Common,2020-07-05 11:25,3,51.4665073,-0.24414,TRUE,FALSE,FALSE,S71278007,NA,2020-07-05
+eurrob1,European Robin,Erithacus rubecula,L1006681,Richmond Park (London),2020-07-06 17:25,2,51.4471069,-0.2717829,TRUE,FALSE,FALSE,S71225471,NA,2020-07-06
+eurrob1,European Robin,Erithacus rubecula,L10401120,"Finsbury Circus, England, GB (51.518, -0.085)",2020-07-07 17:26,1,51.5175925,-0.0848986,TRUE,FALSE,TRUE,S71231533,NA,2020-07-07
+eurrob1,European Robin,Erithacus rubecula,L10480387,Biggin Woods,2020-07-08 14:43,1,51.4156601,-0.1073942,TRUE,FALSE,FALSE,S71257003,NA,2020-07-08
+eurrob1,European Robin,Erithacus rubecula,L10409320,"Huron Road, Tooting",2020-07-09 19:00,2,51.43583,-0.15127,TRUE,FALSE,TRUE,S71294853,NA,2020-07-09
+eurrob1,European Robin,Erithacus rubecula,L11870063,"Stationers Park, London GB-England 51.58017, -0.11318",2020-07-10 20:02,2,51.580171,-0.113175,TRUE,FALSE,TRUE,S71331534,NA,2020-07-10
+eurrob1,European Robin,Erithacus rubecula,L11874819,Churchfield Gardens,2020-07-11 18:31,2,51.5770341,-0.4255756,TRUE,FALSE,TRUE,S71356689,NA,2020-07-11
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-07-12 19:21,NA,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S71403524,NA,2020-07-12
+eurrob1,European Robin,Erithacus rubecula,L1344841,Brent Reservoir,2020-07-13 15:53,1,51.5705173,-0.2462203,TRUE,FALSE,FALSE,S71433267,NA,2020-07-13
+eurrob1,European Robin,Erithacus rubecula,L11895995,"Richmond Park, Richmond GB-England 51.44720, -0.28387",2020-07-14 14:00,2,51.447201,-0.283875,TRUE,FALSE,TRUE,S71481709,NA,2020-07-14
+eurrob1,European Robin,Erithacus rubecula,L1402306,Leyton Flats,2020-07-15 20:04,3,51.5787073,0.0158131,TRUE,FALSE,FALSE,S71523981,NA,2020-07-15
+eurrob1,European Robin,Erithacus rubecula,L7150673,Tower Hamlets Cemetery Park,2020-07-16 14:35,4,51.5230703,-0.0273693,TRUE,FALSE,FALSE,S71552889,NA,2020-07-16
+eurrob1,European Robin,Erithacus rubecula,L10409320,"Huron Road, Tooting",2020-07-17 20:00,1,51.43583,-0.15127,TRUE,FALSE,TRUE,S71577611,NA,2020-07-17
+eurrob1,European Robin,Erithacus rubecula,L10687680,Muswell Hill--N (general area),2020-07-18 17:18,1,51.600945,-0.147967,TRUE,FALSE,TRUE,S71613416,NA,2020-07-18
+eurrob1,European Robin,Erithacus rubecula,L6756235,Ridgemead--Southgate,2020-07-19 15:30,1,51.6268455,-0.1178659,TRUE,FALSE,TRUE,S71636571,NA,2020-07-19
+eurrob1,European Robin,Erithacus rubecula,L2575016,Tooting Common,2020-07-20 17:30,1,51.4334106,-0.1450324,TRUE,FALSE,FALSE,S71671855,NA,2020-07-20
+eurrob1,European Robin,Erithacus rubecula,L3670831,Hampstead Heath,2020-07-21 17:39,2,51.5618116,-0.1633787,TRUE,FALSE,FALSE,S71700621,NA,2020-07-21
+eurrob1,European Robin,Erithacus rubecula,L6777081,Gillespie Park LNR,2020-07-22 19:40,2,51.5596612,-0.1054688,TRUE,FALSE,FALSE,S71729096,NA,2020-07-22
+eurrob1,European Robin,Erithacus rubecula,L3670831,Hampstead Heath,2020-07-23 15:02,1,51.5618116,-0.1633787,TRUE,FALSE,FALSE,S71746010,NA,2020-07-23
+eurrob1,European Robin,Erithacus rubecula,L2575016,Tooting Common,2020-07-24 16:30,1,51.4334106,-0.1450324,TRUE,FALSE,FALSE,S71777726,NA,2020-07-24
+eurrob1,European Robin,Erithacus rubecula,L3020442,Osterley Park and House,2020-07-25 19:15,2,51.4900949,-0.3486657,TRUE,FALSE,FALSE,S71815946,NA,2020-07-25
+eurrob1,European Robin,Erithacus rubecula,L1344841,Brent Reservoir,2020-07-26 19:29,1,51.5705173,-0.2462203,TRUE,FALSE,FALSE,S71847449,NA,2020-07-26
+eurrob1,European Robin,Erithacus rubecula,L6996882,High Broom Wood (WT),2020-07-27 16:59,1,51.383766,-0.0239306,TRUE,FALSE,FALSE,S71873430,NA,2020-07-27
+eurrob1,European Robin,Erithacus rubecula,L939896,WWT London Wetland Centre (from 2000),2020-07-28 14:25,1,51.4774486,-0.235101,TRUE,FALSE,FALSE,S71898238,NA,2020-07-28
+eurrob1,European Robin,Erithacus rubecula,L11980677,"46 Bakers Hill, London GB-England 51.56725, -0.05218",2020-07-29 15:55,1,51.567253,-0.052182,TRUE,FALSE,TRUE,S71925278,NA,2020-07-29
+eurrob1,European Robin,Erithacus rubecula,L939855,Alexandra Park (London),2020-07-30 19:58,1,51.5933888,-0.1266003,TRUE,FALSE,FALSE,S71960692,NA,2020-07-30
+eurrob1,European Robin,Erithacus rubecula,L1344841,Brent Reservoir,2020-07-31 19:31,2,51.5705173,-0.2462203,TRUE,FALSE,FALSE,S71986830,NA,2020-07-31
+eurrob1,European Robin,Erithacus rubecula,L10517254,Hampton Court Park/Home Park,2020-08-01 17:45,NA,51.3992547,-0.323227,TRUE,FALSE,FALSE,S72016257,NA,2020-08-01
+eurrob1,European Robin,Erithacus rubecula,L7148743,Haggerston Park,2020-08-02 19:10,2,51.5330223,-0.0664812,TRUE,FALSE,FALSE,S72048675,NA,2020-08-02
+eurrob1,European Robin,Erithacus rubecula,L11805628,Tollington Park,2020-08-03 20:07,1,51.566998,-0.113091,TRUE,FALSE,TRUE,S72143188,NA,2020-08-03
+eurrob1,European Robin,Erithacus rubecula,L11707838,Colindale- Public Health England,2020-08-04 12:57,1,51.594702,-0.255197,TRUE,FALSE,TRUE,S72097077,NA,2020-08-04
+eurrob1,European Robin,Erithacus rubecula,L1344841,Brent Reservoir,2020-08-05 17:40,3,51.5705173,-0.2462203,TRUE,FALSE,FALSE,S72150752,NA,2020-08-05
+eurrob1,European Robin,Erithacus rubecula,L11750243,Belmont Pastures,2020-08-06 19:34,1,51.3458063,-0.1976144,TRUE,FALSE,TRUE,S72163344,NA,2020-08-06
+eurrob1,European Robin,Erithacus rubecula,L12028713,"Sceptre Road, England, GB (51.527, -0.052)",2020-08-07 19:50,1,51.527206,-0.0517503,TRUE,FALSE,TRUE,S72191727,NA,2020-08-07
+eurrob1,European Robin,Erithacus rubecula,L3012710,Leg O Mutton LNR,2020-08-08 14:49,1,51.482345,-0.24804,TRUE,FALSE,FALSE,S72211641,NA,2020-08-08
+eurrob1,European Robin,Erithacus rubecula,L11868402,"Woodhouse Allotments, North Finchley",2020-08-09 14:30,2,51.614552,-0.169033,TRUE,FALSE,TRUE,S72243470,NA,2020-08-09
+eurrob1,European Robin,Erithacus rubecula,L2575016,Tooting Common,2020-08-10 20:00,2,51.4334106,-0.1450324,TRUE,FALSE,FALSE,S72287784,NA,2020-08-10
+eurrob1,European Robin,Erithacus rubecula,L12050736,"England, GB (51.531, -0.286)",2020-08-11 18:44,4,51.530818,-0.2859868,TRUE,FALSE,TRUE,S72318918,NA,2020-08-11
+eurrob1,European Robin,Erithacus rubecula,L1344841,Brent Reservoir,2020-08-12 17:43,4,51.5705173,-0.2462203,TRUE,FALSE,FALSE,S72353542,NA,2020-08-12
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-08-13 17:00,1,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S72391539,NA,2020-08-13
+eurrob1,European Robin,Erithacus rubecula,L12107080,Caledonian Park,2020-08-14 19:06,1,51.5466153,-0.1232958,TRUE,FALSE,FALSE,S72404448,NA,2020-08-14
+eurrob1,European Robin,Erithacus rubecula,L12073738,"86 Rhodeswell Road, England, GB (51.517, -0.034)",2020-08-15 19:11,3,51.5166332,-0.033532,TRUE,FALSE,TRUE,S72440439,NA,2020-08-15
+eurrob1,European Robin,Erithacus rubecula,L10401120,"Finsbury Circus, England, GB (51.518, -0.085)",2020-08-16 18:12,1,51.5175925,-0.0848986,TRUE,FALSE,TRUE,S72475506,NA,2020-08-16
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-08-17 19:11,1,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S72514344,NA,2020-08-17
+eurrob1,European Robin,Erithacus rubecula,L1344841,Brent Reservoir,2020-08-18 17:36,2,51.5705173,-0.2462203,TRUE,FALSE,FALSE,S72543870,NA,2020-08-18
+eurrob1,European Robin,Erithacus rubecula,L8046904,Waterworks NR,2020-08-19 13:43,NA,51.5630927,-0.0370467,TRUE,FALSE,FALSE,S72571214,NA,2020-08-19
+eurrob1,European Robin,Erithacus rubecula,L11276082,Kingston upon Thames--Surbiton Crescent,2020-08-20 19:00,1,51.400778,-0.303802,TRUE,FALSE,TRUE,S72624149,NA,2020-08-20
+eurrob1,European Robin,Erithacus rubecula,L8841233,Totteridge Valley,2020-08-21 14:57,NA,51.6238838,-0.2144513,TRUE,FALSE,FALSE,S72649355,NA,2020-08-21
+eurrob1,European Robin,Erithacus rubecula,L10998709,Parkland Walk LNR,2020-08-22 17:14,1,51.5743,-0.124439,TRUE,FALSE,FALSE,S72690425,NA,2020-08-22
+eurrob1,European Robin,Erithacus rubecula,L939855,Alexandra Park (London),2020-08-23 17:36,7,51.5933888,-0.1266003,TRUE,FALSE,FALSE,S72738825,NA,2020-08-23
+eurrob1,European Robin,Erithacus rubecula,L6802076,Finsbury Park (The Park only),2020-08-24 19:36,1,51.5710417,-0.1017952,TRUE,FALSE,FALSE,S72778797,NA,2020-08-24
+eurrob1,European Robin,Erithacus rubecula,L10401120,"Finsbury Circus, England, GB (51.518, -0.085)",2020-08-25 17:55,1,51.5175925,-0.0848986,TRUE,FALSE,TRUE,S72808748,NA,2020-08-25
+eurrob1,European Robin,Erithacus rubecula,L8895020,Brockwell Park,2020-08-26 18:00,1,51.4507442,-0.1065159,TRUE,FALSE,FALSE,S72844952,NA,2020-08-26
+eurrob1,European Robin,Erithacus rubecula,L11805628,Tollington Park,2020-08-27 19:51,3,51.566998,-0.113091,TRUE,FALSE,TRUE,S72878838,NA,2020-08-27
+eurrob1,European Robin,Erithacus rubecula,L1344841,Brent Reservoir,2020-08-28 17:33,4,51.5705173,-0.2462203,TRUE,FALSE,FALSE,S72917501,NA,2020-08-28
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-08-29 17:36,5,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S72947722,NA,2020-08-29
+eurrob1,European Robin,Erithacus rubecula,L1006681,Richmond Park (London),2020-08-30 15:19,2,51.4471069,-0.2717829,TRUE,FALSE,FALSE,S285212050,NA,2020-08-30
+eurrob1,European Robin,Erithacus rubecula,L5266959,Chiswick House and Gardens,2020-08-31 19:08,5,51.4837882,-0.2586079,TRUE,FALSE,FALSE,S73036136,NA,2020-08-31
+eurrob1,European Robin,Erithacus rubecula,L7051080,Russia Dock Woodland,2020-09-01 16:49,6,51.5001342,-0.0394714,TRUE,FALSE,FALSE,S73070961,NA,2020-09-01
+eurrob1,European Robin,Erithacus rubecula,L4066910,Ilford - South Park,2020-09-02 17:22,1,51.5569557,0.091753,TRUE,FALSE,TRUE,S73104829,NA,2020-09-02
+eurrob1,European Robin,Erithacus rubecula,L7051080,Russia Dock Woodland,2020-09-03 19:17,4,51.5001342,-0.0394714,TRUE,FALSE,FALSE,S73141399,NA,2020-09-03
+eurrob1,European Robin,Erithacus rubecula,L1344841,Brent Reservoir,2020-09-04 18:18,3,51.5705173,-0.2462203,TRUE,FALSE,FALSE,S73183218,NA,2020-09-04
+eurrob1,European Robin,Erithacus rubecula,L7051080,Russia Dock Woodland,2020-09-05 17:18,1,51.5001342,-0.0394714,TRUE,FALSE,FALSE,S73217393,NA,2020-09-05
+eurrob1,European Robin,Erithacus rubecula,L10687680,Muswell Hill--N (general area),2020-09-06 18:25,2,51.600945,-0.147967,TRUE,FALSE,TRUE,S73277635,NA,2020-09-06
+eurrob1,European Robin,Erithacus rubecula,L6756235,Ridgemead--Southgate,2020-09-07 19:27,1,51.6268455,-0.1178659,TRUE,FALSE,TRUE,S73311585,NA,2020-09-07
+eurrob1,European Robin,Erithacus rubecula,L3886029,Chingford Plain,2020-09-08 18:38,1,51.6367015,0.0195479,TRUE,FALSE,FALSE,S73349329,NA,2020-09-08
+eurrob1,European Robin,Erithacus rubecula,L12107080,Caledonian Park,2020-09-09 18:19,1,51.5466153,-0.1232958,TRUE,FALSE,FALSE,S73389960,NA,2020-09-09
+eurrob1,European Robin,Erithacus rubecula,L11013005,New River Walk--Green Lanes to Newnton Close,2020-09-10 18:13,5,51.57397,-0.092746,TRUE,FALSE,FALSE,S73426029,NA,2020-09-10
+eurrob1,European Robin,Erithacus rubecula,L11504293,Little Woodcote,2020-09-11 16:50,7,51.3387237,-0.1565787,TRUE,FALSE,FALSE,S93650414,NA,2020-09-11
+eurrob1,European Robin,Erithacus rubecula,L7051080,Russia Dock Woodland,2020-09-12 16:01,2,51.5001342,-0.0394714,TRUE,FALSE,FALSE,S73496505,NA,2020-09-12
+eurrob1,European Robin,Erithacus rubecula,L1000253,"Rainham Marshes RSPB Reserve, SSSI and LNR (includes Stone Barges and riverside walk)",2020-09-13 20:45,4,51.4966805,0.2115243,TRUE,FALSE,FALSE,S73556807,NA,2020-09-13
+eurrob1,European Robin,Erithacus rubecula,L5803024,Wanstead Flats,2020-09-14 17:28,1,51.5590742,0.0319934,TRUE,FALSE,FALSE,S73596470,NA,2020-09-14
+eurrob1,European Robin,Erithacus rubecula,L5803024,Wanstead Flats,2020-09-15 17:16,5,51.5590742,0.0319934,TRUE,FALSE,FALSE,S73635220,NA,2020-09-15
+eurrob1,European Robin,Erithacus rubecula,L10401120,"Finsbury Circus, England, GB (51.518, -0.085)",2020-09-16 17:25,1,51.5175925,-0.0848986,TRUE,FALSE,TRUE,S73670749,NA,2020-09-16
+eurrob1,European Robin,Erithacus rubecula,L9610456,Fishpond Wood and Beverley Meads LWT LNR,2020-09-17 19:00,1,51.4225773,-0.249902,TRUE,FALSE,FALSE,S75448670,NA,2020-09-17
+eurrob1,European Robin,Erithacus rubecula,L1765241,Kelsey Park,2020-09-18 15:54,1,51.4019366,-0.0218746,TRUE,FALSE,FALSE,S73739706,NA,2020-09-18
+eurrob1,European Robin,Erithacus rubecula,L1344841,Brent Reservoir,2020-09-19 16:30,2,51.5705173,-0.2462203,TRUE,FALSE,FALSE,S73820070,NA,2020-09-19
+eurrob1,European Robin,Erithacus rubecula,L11829476,Belhus Woods Country Park,2020-09-20 19:05,3,51.5190961,0.2578256,TRUE,FALSE,FALSE,S73835252,NA,2020-09-20
+eurrob1,European Robin,Erithacus rubecula,L6756235,Ridgemead--Southgate,2020-09-21 13:38,2,51.6268455,-0.1178659,TRUE,FALSE,TRUE,S73867139,NA,2020-09-21
+eurrob1,European Robin,Erithacus rubecula,L11504293,Little Woodcote,2020-09-22 15:53,4,51.3387237,-0.1565787,TRUE,FALSE,FALSE,S73924485,NA,2020-09-22
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2020-09-23 15:19,1,51.594753,-0.140426,TRUE,FALSE,TRUE,S73988843,NA,2020-09-23
+eurrob1,European Robin,Erithacus rubecula,L12103035,"Colindale Avenue, Colindale",2020-09-24 19:00,2,51.594329,-0.253524,TRUE,FALSE,TRUE,S74012390,NA,2020-09-24
+eurrob1,European Robin,Erithacus rubecula,L5803024,Wanstead Flats,2020-09-25 16:53,1,51.5590742,0.0319934,TRUE,FALSE,FALSE,S74061281,NA,2020-09-25
+eurrob1,European Robin,Erithacus rubecula,L2575016,Tooting Common,2020-09-26 15:30,2,51.4334106,-0.1450324,TRUE,FALSE,FALSE,S74074632,NA,2020-09-26
+eurrob1,European Robin,Erithacus rubecula,L10687680,Muswell Hill--N (general area),2020-09-27 18:25,1,51.600945,-0.147967,TRUE,FALSE,TRUE,S74141730,NA,2020-09-27
+eurrob1,European Robin,Erithacus rubecula,L10401120,"Finsbury Circus, England, GB (51.518, -0.085)",2020-09-28 17:43,1,51.5175925,-0.0848986,TRUE,FALSE,TRUE,S74174087,NA,2020-09-28
+eurrob1,European Robin,Erithacus rubecula,L6823030,Mile End Park,2020-09-29 18:30,1,51.526333,-0.0378487,TRUE,FALSE,FALSE,S74211596,NA,2020-09-29
+eurrob1,European Robin,Erithacus rubecula,L5803024,Wanstead Flats,2020-09-30 16:01,NA,51.5590742,0.0319934,TRUE,FALSE,FALSE,S74280966,NA,2020-09-30
+eurrob1,European Robin,Erithacus rubecula,L5400834,Lloyd Park (Croydon),2020-10-01 18:00,4,51.3664273,-0.0756758,TRUE,FALSE,FALSE,S74286060,NA,2020-10-01
+eurrob1,European Robin,Erithacus rubecula,L4066691,Woodberry Wetlands LWT NR,2020-10-02 15:07,9,51.5713457,-0.0859165,TRUE,FALSE,FALSE,S74319147,NA,2020-10-02
+eurrob1,European Robin,Erithacus rubecula,L6756235,Ridgemead--Southgate,2020-10-03 17:30,1,51.6268455,-0.1178659,TRUE,FALSE,TRUE,S74380573,NA,2020-10-03
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-10-04 17:36,1,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S74409849,NA,2020-10-04
+eurrob1,European Robin,Erithacus rubecula,L3681809,Ingrebourne Valley LNR and Hornchurch Country Park,2020-10-05 16:30,5,51.5370528,0.2097703,TRUE,FALSE,FALSE,S74458960,NA,2020-10-05
+eurrob1,European Robin,Erithacus rubecula,L12438190,"90–99 Bassant Road, London GB-England 51.48004, 0.09407",2020-10-06 14:32,1,51.480036,0.094073,TRUE,FALSE,TRUE,S74489221,NA,2020-10-06
+eurrob1,European Robin,Erithacus rubecula,L10409320,"Huron Road, Tooting",2020-10-07 17:25,1,51.43583,-0.15127,TRUE,FALSE,TRUE,S74531657,NA,2020-10-07
+eurrob1,European Robin,Erithacus rubecula,L1800098,Battersea Park,2020-10-08 17:35,3,51.4802877,-0.1552555,TRUE,FALSE,FALSE,S74568444,NA,2020-10-08
+eurrob1,European Robin,Erithacus rubecula,L12103035,"Colindale Avenue, Colindale",2020-10-09 18:17,1,51.594329,-0.253524,TRUE,FALSE,TRUE,S74630810,NA,2020-10-09
+eurrob1,European Robin,Erithacus rubecula,L8841233,Totteridge Valley,2020-10-10 16:06,15,51.6238838,-0.2144513,TRUE,FALSE,FALSE,S74645407,NA,2020-10-10
+eurrob1,European Robin,Erithacus rubecula,L5400834,Lloyd Park (Croydon),2020-10-11 16:00,10,51.3664273,-0.0756758,TRUE,FALSE,FALSE,S74699238,NA,2020-10-11
+eurrob1,European Robin,Erithacus rubecula,L2489870,Mitcham Common,2020-10-12 17:46,NA,51.397733,-0.1505685,TRUE,FALSE,FALSE,S74752477,NA,2020-10-12
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-10-13 13:00,1,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S74786822,NA,2020-10-13
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-10-14 15:00,NA,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S74812953,NA,2020-10-14
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-10-15 15:38,NA,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S74848346,NA,2020-10-15
+eurrob1,European Robin,Erithacus rubecula,L7051080,Russia Dock Woodland,2020-10-16 17:14,16,51.5001342,-0.0394714,TRUE,FALSE,FALSE,S89019159,NA,2020-10-16
+eurrob1,European Robin,Erithacus rubecula,L6756235,Ridgemead--Southgate,2020-10-17 18:28,1,51.6268455,-0.1178659,TRUE,FALSE,TRUE,S74959179,NA,2020-10-17
+eurrob1,European Robin,Erithacus rubecula,L12496822,"Harringay Rd, Turnpike Lane",2020-10-18 17:43,1,51.586274,-0.098731,TRUE,FALSE,TRUE,S75041312,NA,2020-10-18
+eurrob1,European Robin,Erithacus rubecula,L10401120,"Finsbury Circus, England, GB (51.518, -0.085)",2020-10-19 17:24,1,51.5175925,-0.0848986,TRUE,FALSE,TRUE,S75096991,NA,2020-10-19
+eurrob1,European Robin,Erithacus rubecula,L10401120,"Finsbury Circus, England, GB (51.518, -0.085)",2020-10-20 17:23,1,51.5175925,-0.0848986,TRUE,FALSE,TRUE,S75140948,NA,2020-10-20
+eurrob1,European Robin,Erithacus rubecula,L8919394,Brunswick Square Gardens,2020-10-21 17:32,1,51.5244248,-0.1217194,TRUE,FALSE,FALSE,S75473197,NA,2020-10-21
+eurrob1,European Robin,Erithacus rubecula,L10401120,"Finsbury Circus, England, GB (51.518, -0.085)",2020-10-22 17:17,1,51.5175925,-0.0848986,TRUE,FALSE,TRUE,S75217842,NA,2020-10-22
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-10-23 16:59,2,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S75254963,NA,2020-10-23
+eurrob1,European Robin,Erithacus rubecula,L11313170,Claremont Gardens,2020-10-24 16:42,1,51.395424,-0.304487,TRUE,FALSE,FALSE,S75318739,NA,2020-10-24
+eurrob1,European Robin,Erithacus rubecula,L11353501,Epping Forest - Barn Hoppit,2020-10-25 16:21,4,51.6317977,0.0187463,TRUE,FALSE,TRUE,S75388140,NA,2020-10-25
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2020-10-26 17:04,3,51.594753,-0.140426,TRUE,FALSE,TRUE,S75440468,NA,2020-10-26
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-10-27 22:52,1,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S75502336,NA,2020-10-27
+eurrob1,European Robin,Erithacus rubecula,L4066691,Woodberry Wetlands LWT NR,2020-10-28 15:16,1,51.5713457,-0.0859165,TRUE,FALSE,FALSE,S75524157,NA,2020-10-28
+eurrob1,European Robin,Erithacus rubecula,L8002152,Clissold Park,2020-10-29 16:13,4,51.5617764,-0.0886763,TRUE,FALSE,FALSE,S75586744,NA,2020-10-29
+eurrob1,European Robin,Erithacus rubecula,L10658966,[EDN] Edna Rd,2020-10-30 15:35,1,51.4087836,-0.2231646,TRUE,FALSE,TRUE,S75596671,NA,2020-10-30
+eurrob1,European Robin,Erithacus rubecula,L3670831,Hampstead Heath,2020-10-31 15:25,2,51.5618116,-0.1633787,TRUE,FALSE,FALSE,S75641557,NA,2020-10-31
+eurrob1,European Robin,Erithacus rubecula,L5803024,Wanstead Flats,2020-11-01 14:52,1,51.5590742,0.0319934,TRUE,FALSE,FALSE,S75688908,NA,2020-11-01
+eurrob1,European Robin,Erithacus rubecula,L4066691,Woodberry Wetlands LWT NR,2020-11-02 15:06,4,51.5713457,-0.0859165,TRUE,FALSE,FALSE,S75740851,NA,2020-11-02
+eurrob1,European Robin,Erithacus rubecula,L11707838,Colindale- Public Health England,2020-11-03 16:04,2,51.594702,-0.255197,TRUE,FALSE,TRUE,S75828432,NA,2020-11-03
+eurrob1,European Robin,Erithacus rubecula,L13833125,Onslow Gardens,2020-11-04 15:50,3,51.3548167,-0.1470548,TRUE,FALSE,TRUE,S93804207,NA,2020-11-04
+eurrob1,European Robin,Erithacus rubecula,L12657563,"Plumstead Common, London GB-England 51.48294, 0.09861",2020-11-05 18:27,2,51.482935,0.098605,TRUE,FALSE,TRUE,S75865478,NA,2020-11-05
+eurrob1,European Robin,Erithacus rubecula,L4828722,Wimbledon Common,2020-11-06 15:13,NA,51.4358773,-0.2335668,TRUE,FALSE,FALSE,S75898807,NA,2020-11-06
+eurrob1,European Robin,Erithacus rubecula,L11634693,"125 Woodmansterne Road, England, GB (51.347, -0.174)",2020-11-07 17:09,5,51.3471883,-0.1736815,TRUE,FALSE,TRUE,S75942931,NA,2020-11-07
+eurrob1,European Robin,Erithacus rubecula,L4544435,Regent's Park Trail,2020-11-08 17:13,1,51.5357653,-0.1597255,TRUE,FALSE,FALSE,S75998455,NA,2020-11-08
+eurrob1,European Robin,Erithacus rubecula,L6802076,Finsbury Park (The Park only),2020-11-09 16:17,2,51.5710417,-0.1017952,TRUE,FALSE,FALSE,S76043160,NA,2020-11-09
+eurrob1,European Robin,Erithacus rubecula,L3886029,Chingford Plain,2020-11-10 15:16,1,51.6367015,0.0195479,TRUE,FALSE,FALSE,S76078794,NA,2020-11-10
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-11-11 15:30,NA,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S76119001,NA,2020-11-11
+eurrob1,European Robin,Erithacus rubecula,L5400834,Lloyd Park (Croydon),2020-11-12 14:50,1,51.3664273,-0.0756758,TRUE,FALSE,FALSE,S76155886,NA,2020-11-12
+eurrob1,European Robin,Erithacus rubecula,L10069114,Cannon Hill Common LNR,2020-11-13 14:54,4,51.4009446,-0.2206709,TRUE,FALSE,FALSE,S76191897,NA,2020-11-13
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-11-14 12:04,2,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S76229819,NA,2020-11-14
+eurrob1,European Robin,Erithacus rubecula,L4066691,Woodberry Wetlands LWT NR,2020-11-15 15:50,NA,51.5713457,-0.0859165,TRUE,FALSE,FALSE,S76293455,NA,2020-11-15
+eurrob1,European Robin,Erithacus rubecula,L5400834,Lloyd Park (Croydon),2020-11-16 15:19,2,51.3664273,-0.0756758,TRUE,FALSE,FALSE,S76364492,NA,2020-11-16
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-11-17 13:40,1,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S76508741,NA,2020-11-17
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-11-18 13:29,2,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S76389145,NA,2020-11-18
+eurrob1,European Robin,Erithacus rubecula,L8841233,Totteridge Valley,2020-11-19 15:11,NA,51.6238838,-0.2144513,TRUE,FALSE,FALSE,S76402246,NA,2020-11-19
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-11-20 13:08,1,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S76510559,NA,2020-11-20
+eurrob1,European Robin,Erithacus rubecula,L8841233,Totteridge Valley,2020-11-21 15:24,NA,51.6238838,-0.2144513,TRUE,FALSE,FALSE,S76494979,NA,2020-11-21
+eurrob1,European Robin,Erithacus rubecula,L12622471,Haynes Park,2020-11-22 15:26,2,51.578802,0.2146931,TRUE,FALSE,FALSE,S76544649,NA,2020-11-22
+eurrob1,European Robin,Erithacus rubecula,L1122086,Regent's Park (please do not list exotic waterfowl),2020-11-23 17:48,2,51.5316,-0.1559,TRUE,FALSE,FALSE,S76584099,NA,2020-11-23
+eurrob1,European Robin,Erithacus rubecula,L11707838,Colindale- Public Health England,2020-11-24 15:24,1,51.594702,-0.255197,TRUE,FALSE,TRUE,S76708302,NA,2020-11-24
+eurrob1,European Robin,Erithacus rubecula,L13397747,Lambeth Cemetery,2020-11-25 14:54,NA,51.428327,-0.1824784,TRUE,FALSE,FALSE,S76670873,NA,2020-11-25
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2020-11-26 15:34,4,51.594753,-0.140426,TRUE,FALSE,TRUE,S76709003,NA,2020-11-26
+eurrob1,European Robin,Erithacus rubecula,L4523466,Portsmouth Rd (Sunbury) Filter Beds (No access - View from outside),2020-11-27 14:55,1,51.3952778,-0.3138889,TRUE,FALSE,FALSE,S76747606,NA,2020-11-27
+eurrob1,European Robin,Erithacus rubecula,L8841233,Totteridge Valley,2020-11-28 14:55,NA,51.6238838,-0.2144513,TRUE,FALSE,FALSE,S76802168,NA,2020-11-28
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2020-11-29 15:40,3,51.594753,-0.140426,TRUE,FALSE,TRUE,S76852605,NA,2020-11-29
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2020-11-30 16:05,2,51.594753,-0.140426,TRUE,FALSE,TRUE,S76918707,NA,2020-11-30
+eurrob1,European Robin,Erithacus rubecula,L12214584,Wandle Park (Colliers Wood),2020-12-01 14:10,NA,51.4188903,-0.1798127,TRUE,FALSE,FALSE,S76934862,NA,2020-12-01
+eurrob1,European Robin,Erithacus rubecula,L11707838,Colindale- Public Health England,2020-12-02 14:40,2,51.594702,-0.255197,TRUE,FALSE,TRUE,S77025894,NA,2020-12-02
+eurrob1,European Robin,Erithacus rubecula,L2575016,Tooting Common,2020-12-03 14:50,2,51.4334106,-0.1450324,TRUE,FALSE,FALSE,S77013123,NA,2020-12-03
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2020-12-04 14:51,2,51.594753,-0.140426,TRUE,FALSE,TRUE,S77066698,NA,2020-12-04
+eurrob1,European Robin,Erithacus rubecula,L12107080,Caledonian Park,2020-12-05 15:47,1,51.5466153,-0.1232958,TRUE,FALSE,FALSE,S77088557,NA,2020-12-05
+eurrob1,European Robin,Erithacus rubecula,L10069114,Cannon Hill Common LNR,2020-12-06 15:19,3,51.4009446,-0.2206709,TRUE,FALSE,FALSE,S77141374,NA,2020-12-06
+eurrob1,European Robin,Erithacus rubecula,L1122086,Regent's Park (please do not list exotic waterfowl),2020-12-07 15:18,11,51.5316,-0.1559,TRUE,FALSE,FALSE,S77187518,NA,2020-12-07
+eurrob1,European Robin,Erithacus rubecula,L11546794,Beddington Park,2020-12-08 16:20,1,51.3724317,-0.1435977,TRUE,FALSE,FALSE,S93997433,NA,2020-12-08
+eurrob1,European Robin,Erithacus rubecula,L7869430,Tufnell Park--Huddleston Road,2020-12-09 15:19,3,51.5558913,-0.1327325,TRUE,FALSE,TRUE,S77264922,NA,2020-12-09
+eurrob1,European Robin,Erithacus rubecula,L2575016,Tooting Common,2020-12-10 14:15,3,51.4334106,-0.1450324,TRUE,FALSE,FALSE,S77306120,NA,2020-12-10
+eurrob1,European Robin,Erithacus rubecula,L12214584,Wandle Park (Colliers Wood),2020-12-11 15:45,NA,51.4188903,-0.1798127,TRUE,FALSE,FALSE,S77338207,NA,2020-12-11
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-12-12 13:45,2,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S77490842,NA,2020-12-12
+eurrob1,European Robin,Erithacus rubecula,L10409320,"Huron Road, Tooting",2020-12-13 15:00,1,51.43583,-0.15127,TRUE,FALSE,TRUE,S77427635,NA,2020-12-13
+eurrob1,European Robin,Erithacus rubecula,L12939376,Hercies Road,2020-12-14 15:45,1,51.5503067,-0.4576139,TRUE,FALSE,TRUE,S77479909,NA,2020-12-14
+eurrob1,European Robin,Erithacus rubecula,L13762126,Woodcote Lane,2020-12-15 15:15,3,51.3396001,-0.1405471,TRUE,FALSE,TRUE,S94720956,NA,2020-12-15
+eurrob1,European Robin,Erithacus rubecula,L12913750,Walpole Park (Ealing),2020-12-16 13:15,5,51.509297,-0.309827,TRUE,FALSE,FALSE,S77544652,NA,2020-12-16
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2020-12-17 15:43,4,51.594753,-0.140426,TRUE,FALSE,TRUE,S77587371,NA,2020-12-17
+eurrob1,European Robin,Erithacus rubecula,L939855,Alexandra Park (London),2020-12-18 15:40,1,51.5933888,-0.1266003,TRUE,FALSE,FALSE,S77634307,NA,2020-12-18
+eurrob1,European Robin,Erithacus rubecula,L12974168,Athelstan Recreation Ground,2020-12-19 15:00,4,51.403563,-0.2935068,TRUE,FALSE,FALSE,S77674360,NA,2020-12-19
+eurrob1,European Robin,Erithacus rubecula,L12106757,Horsenden Hill,2020-12-20 15:02,1,51.5460308,-0.3240521,TRUE,FALSE,FALSE,S77730915,NA,2020-12-20
+eurrob1,European Robin,Erithacus rubecula,L12913750,Walpole Park (Ealing),2020-12-21 16:23,2,51.509297,-0.309827,TRUE,FALSE,FALSE,S77792441,NA,2020-12-21
+eurrob1,European Robin,Erithacus rubecula,L1122086,Regent's Park (please do not list exotic waterfowl),2020-12-22 15:04,1,51.5316,-0.1559,TRUE,FALSE,FALSE,S77833998,NA,2020-12-22
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2020-12-23 15:48,3,51.594753,-0.140426,TRUE,FALSE,TRUE,S77879009,NA,2020-12-23
+eurrob1,European Robin,Erithacus rubecula,L3331194,Southwark Park,2020-12-24 15:21,2,51.4940227,-0.0546312,TRUE,FALSE,FALSE,S78298236,NA,2020-12-24
+eurrob1,European Robin,Erithacus rubecula,L939855,Alexandra Park (London),2020-12-25 16:45,NA,51.5933888,-0.1266003,TRUE,FALSE,FALSE,S77960060,NA,2020-12-25
+eurrob1,European Robin,Erithacus rubecula,L5441874,Grovelands Park,2020-12-26 15:22,1,51.6320569,-0.1142728,TRUE,FALSE,FALSE,S77998238,NA,2020-12-26
+eurrob1,European Robin,Erithacus rubecula,L4210937,Muswell Hill--garden,2020-12-27 16:03,1,51.595709,-0.1394567,TRUE,FALSE,TRUE,S78060017,NA,2020-12-27
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2020-12-28 15:57,2,51.594753,-0.140426,TRUE,FALSE,TRUE,S78147095,NA,2020-12-28
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2020-12-29 15:44,4,51.594753,-0.140426,TRUE,FALSE,TRUE,S78217443,NA,2020-12-29
+eurrob1,European Robin,Erithacus rubecula,L933099,Beddington Farmlands,2020-12-30 18:11,NA,51.3805849,-0.1479596,TRUE,FALSE,FALSE,S78264744,NA,2020-12-30
+eurrob1,European Robin,Erithacus rubecula,L8190566,Muswell Hill--E (general area),2020-12-31 15:46,1,51.594753,-0.140426,TRUE,FALSE,TRUE,S78312359,NA,2020-12-31
