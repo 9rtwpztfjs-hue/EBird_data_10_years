@@ -7,6 +7,8 @@ let currentYear = "2024";
 let years = ["2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024"];
 let buttons = [];
 
+const londonLat = 51.5074;
+const londonLng = -0.1278;
 const mappa = new Mappa('Leaflet');
 
 const options = {
@@ -78,6 +80,29 @@ function drawBirds(year){
 
   let data = birdData[year];
 
+  
+  const center = myMap.latLngToPixel(londonLat, londonLng);
+
+  
+  let glowColor;
+  let zoom = myMap.zoom();
+  let scaleFactor = Math.pow(2, zoom);
+
+  let baseSize = scaleFactor * 0.5;
+
+  if (year >= "2014" && year <= "2019") {
+    glowColor = color(255, 255, 0); 
+  } else {
+    glowColor = color(255, 255, 255); 
+  }
+
+  noStroke();
+
+  for (let i = 0; i < 10; i++) {
+    fill(red(glowColor), green(glowColor), blue(glowColor), 40 - i * 5);
+    ellipse(center.x, center.y, baseSize + i * 40, baseSize + i * 40);
+  }
+
   for (let i = 0; i < data.getRowCount(); i++) {
 
     const lat = Number(data.getString(i, 'lat'));
@@ -85,6 +110,8 @@ function drawBirds(year){
     const amount = Number(data.getString(i, 'howMany'));
 
     const pos = myMap.latLngToPixel(lat, lng);
+
+    fill(200,100,100)
 
     ellipse(pos.x, pos.y, amount * 5, amount * 5);
     
